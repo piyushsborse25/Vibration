@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/System Design New.md",
+                "file": "Java/System Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System Design New"
+              "title": "System Design"
             }
           }
         ]
@@ -153,14 +153,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c76bb619971debaa",
+  "active": "9485ebdaf4b0bc3a",
   "lastOpenFiles": [
+    "Java/System Design.md",
     "git-sync.bat",
     "got-sync.bat.md",
     "got-sync.bat",
-    "Java/System Design New.md",
     "README.md",
-    "Java/System Design.md",
     "Java"
   ]
 }
