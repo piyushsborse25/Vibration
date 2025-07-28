@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Java/System Design.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -155,11 +155,11 @@
   },
   "active": "9485ebdaf4b0bc3a",
   "lastOpenFiles": [
+    "README.md",
     "Java/System Design.md",
     "git-sync.bat",
     "got-sync.bat.md",
     "got-sync.bat",
-    "README.md",
     "Java"
   ]
 }
