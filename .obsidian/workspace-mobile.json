@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/System Design.md",
+                "file": "The Path.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "System Design"
+              "title": "The Path"
             }
           }
         ]
@@ -155,8 +155,10 @@
   },
   "active": "9485ebdaf4b0bc3a",
   "lastOpenFiles": [
-    "README.md",
     "Java/System Design.md",
+    "The Path.md",
+    "Untitled",
+    "README.md",
     "git-sync.bat",
     "got-sync.bat.md",
     "got-sync.bat",
