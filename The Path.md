@@ -20,7 +20,7 @@ Okay, now select the first topic and get more deeper into it. Add those points o
  
 - **Architecture Patterns** 
  
-  - CQRS Pattern
+  - CQRS Pattern (Command Query Responsibility Segregation)
  
   - Event-Driven Architecture
  
