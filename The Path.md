@@ -1,3 +1,5 @@
+Okay, now select the first topic and get more deeper into it. Add those points or the subtopics that I have missed and very important. Or if not, but they contain the topic, then you can also add it. Just add it.
+
  ### 1. **System Design & Distributed Systems**
  
  
@@ -23,6 +25,8 @@
   - Event-Driven Architecture
  
   - Saga Pattern
+	  - Orchestration Pattern
+	  - Choreography Pattern
  
 
  
