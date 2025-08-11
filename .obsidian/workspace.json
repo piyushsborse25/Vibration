@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ElasticSearch/50 Elasticsearch interview questions.md",
+                "file": "ElasticSearch/Answers/12. Aggregations.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "50 Elasticsearch interview questions"
+              "title": "12. Aggregations"
             }
           }
         ]
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ElasticSearch/50 Elasticsearch interview questions.md",
+                "file": "ElasticSearch/Answers/12. Aggregations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 50 Elasticsearch interview questions"
+              "title": "Backlinks for 12. Aggregations"
             }
           },
           {
@@ -96,12 +96,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ElasticSearch/50 Elasticsearch interview questions.md",
+                "file": "ElasticSearch/Answers/12. Aggregations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 50 Elasticsearch interview questions"
+              "title": "Outgoing links from 12. Aggregations"
             }
           },
           {
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ElasticSearch/50 Elasticsearch interview questions.md",
+                "file": "ElasticSearch/Answers/12. Aggregations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 50 Elasticsearch interview questions"
+              "title": "Outline of 12. Aggregations"
             }
           }
         ]
@@ -167,10 +167,16 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "750c7e3fd8704c02",
+  "active": "254489ecd69a94be",
   "lastOpenFiles": [
-    "ElasticSearch/Answers/6. Shards, Replicas, & Scaling.md",
+    "ElasticSearch/Answers/11. Queries & Filters.md",
     "ElasticSearch/50 Elasticsearch interview questions.md",
+    "ElasticSearch/Answers/8. Mappings & Analysis.md",
+    "ElasticSearch/Answers/9. Java Spring Boot Integration.md",
+    "ElasticSearch/Answers/10. Advanced & Real-World Scenarios.md",
+    "ElasticSearch/Answers/12. Aggregations.md",
+    "ElasticSearch/Answers/7. Cluster Management.md",
+    "ElasticSearch/Answers/6. Shards, Replicas, & Scaling.md",
     "ElasticSearch/Answers/5. Aggregations.md",
     "ElasticSearch/Answers/1. Fundamentals & Core Concepts.md",
     "ElasticSearch/Answers/2. Indexing & CRUD.md",

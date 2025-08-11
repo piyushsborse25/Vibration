@@ -90,7 +90,7 @@
 
 ---
 
-### **7. Cluster Management**
+### **[[7. Cluster Management]]**
 
 31. What is the role of the **master node** in Elasticsearch?
     
@@ -105,7 +105,7 @@
 
 ---
 
-### **8. Performance & Pitfalls**
+### **[[8. Mappings & Analysis]]**
 
 36. Why is indexing slower than searching in Elasticsearch?
     
@@ -120,7 +120,7 @@
 
 ---
 
-### **9. Java / Spring Boot Integration**
+### **[[9. Java Spring Boot Integration]]**
 
 41. How does Spring Data Elasticsearch differ from using the Elasticsearch REST API directly?
     
@@ -135,7 +135,7 @@
 
 ---
 
-### **10. Advanced & Real-World Scenarios**
+### **[[10. Advanced & Real-World Scenarios]]**
 
 46. How do you use the **Reindex API**, and what are its pitfalls?
     
