@@ -75,7 +75,7 @@
 
 ---
 
-### **6. Shards, Replicas, & Scaling**
+### **[[6. Shards, Replicas, & Scaling]]**
 
 26. What’s the difference between a **primary shard** and a **replica shard**?
     

@@ -167,14 +167,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "254489ecd69a94be",
+  "active": "750c7e3fd8704c02",
   "lastOpenFiles": [
+    "ElasticSearch/Answers/6. Shards, Replicas, & Scaling.md",
+    "ElasticSearch/50 Elasticsearch interview questions.md",
     "ElasticSearch/Answers/5. Aggregations.md",
     "ElasticSearch/Answers/1. Fundamentals & Core Concepts.md",
     "ElasticSearch/Answers/2. Indexing & CRUD.md",
     "ElasticSearch/Answers/3. Mapping & Analyzers.md",
     "ElasticSearch/Answers/4. Query DSL.md",
-    "ElasticSearch/50 Elasticsearch interview questions.md",
     "ElasticSearch/Answers",
     "Java/Collections.md",
     "Untitled.md",
