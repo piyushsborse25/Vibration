@@ -16,6 +16,6 @@ git commit -m "%MESSAGE%"
 git push
 
 echo.
-echo ✅ Git sync completed with message:
-echo     %MESSAGE%
+echo Git sync completed with message:
+echo %MESSAGE%
 pause
