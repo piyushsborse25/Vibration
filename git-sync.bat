@@ -1,6 +1,6 @@
 @echo off
 :: Set your commit prefix
-set PREFIX=Sync commit at
+set PREFIX=PC Sync commit at
 
 :: Get current date and time (adjust format as needed)
 for /f "tokens=1-5 delims=/:. " %%d in ("%date% %time%") do (
