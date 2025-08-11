@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Path.md",
+                "file": "ElasticSearch/Answers/5. Aggregations.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Path"
+              "title": "5. Aggregations"
             }
           }
         ]
@@ -154,10 +154,12 @@
   },
   "active": "9485ebdaf4b0bc3a",
   "lastOpenFiles": [
+    "ElasticSearch/50 Elasticsearch interview questions.md",
+    "ElasticSearch/Answers/1. Fundamentals & Core Concepts.md",
+    "The Path.md",
     "Java/System Design.md",
     "Java/Collections.md",
     "README.md",
-    "The Path.md",
     "ttt.md",
     "Grouping By.md",
     "Test.md",
