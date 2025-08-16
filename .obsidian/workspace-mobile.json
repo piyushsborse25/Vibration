@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Chapter 1 - Fundamentals of System Design.md",
+                "file": "System Design/Track (3 Years Java Developer).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Fundamentals of System Design"
+              "title": "Track (3 Years Java Developer)"
             }
           }
         ]
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "The Path.md",
+            "file": "System Design/Track (3 Years Java Developer).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,6 +154,7 @@
   },
   "active": "9485ebdaf4b0bc3a",
   "lastOpenFiles": [
+    "System Design/Chapter 1 - Fundamentals of System Design.md",
     "System Design/Track (3 Years Java Developer).md",
     "ElasticSearch/Answers/5. Aggregations.md",
     "ElasticSearch/50 Elasticsearch interview questions.md",
