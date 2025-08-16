@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ElasticSearch/Answers/5. Aggregations.md",
+                "file": "System Design/Chapter 1 - Fundamentals of System Design.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "5. Aggregations"
+              "title": "Chapter 1 - Fundamentals of System Design"
             }
           }
         ]
@@ -154,6 +154,8 @@
   },
   "active": "9485ebdaf4b0bc3a",
   "lastOpenFiles": [
+    "System Design/Track (3 Years Java Developer).md",
+    "ElasticSearch/Answers/5. Aggregations.md",
     "ElasticSearch/50 Elasticsearch interview questions.md",
     "ElasticSearch/Answers/1. Fundamentals & Core Concepts.md",
     "The Path.md",
