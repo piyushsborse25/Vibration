@@ -15,7 +15,7 @@
 
 ---
 
-## **2. Networking & APIs**
+## **[[Chapter 2 - Networking & APIs]]**
 
 - REST vs gRPC vs WebSockets
 
@@ -30,7 +30,7 @@
 
 ---
 
-## **3. Storage & Databases**
+## **[[Chapter 3 – Databases & Storage Systems]]**
 
 - SQL vs NoSQL (when to use which)
 
@@ -49,7 +49,7 @@
 
 ---
 
-## **4. Consistency & Reliability**
+## **[[Chapter 4 - Consistency & Reliability]]**
 
 - CAP theorem (CP vs AP)
 
@@ -66,7 +66,7 @@
 
 ---
 
-## **5. Caching & Performance**
+## **[[Chapter 5 – Caching & Performance]]**
 
 - Write-through, write-back, write-around
 
@@ -83,7 +83,7 @@
 
 ---
 
-## **6. Messaging & Async Processing**
+## **[[Chapter 6 - Messaging & Asynchronous Processing]]**
 
 - Message queue vs Event streaming
 
@@ -100,7 +100,7 @@
 
 ---
 
-## **7. Architecture Patterns**
+## **[[Chapter 7 – Architecture Patterns]]**
 
 - Monolith vs Microservices vs Modular
 
@@ -117,7 +117,7 @@
 
 ---
 
-## **8. Scalability & Resilience**
+## **[[Chapter 8 - Scalability & Resilience]]**
 
 - Circuit breaker (Resilience4j, Hystrix)
 
@@ -134,7 +134,7 @@
 
 ---
 
-## **9. Deployment & Observability**
+## **[[Chapter 9 - Deployment & Observability]]**
 
 - Deployment strategies: blue-green, rolling, canary
 
@@ -153,7 +153,7 @@
 
 ---
 
-## **10. Security**
+## **[[Chapter 10 - Security in System Design]]**
 
 - API authentication: OAuth2, JWT
 
@@ -168,7 +168,7 @@
 
 ---
 
-## **11. Advanced (Good to Mention, Not Expected to Master)**
+## **[[Chapter 11 - Advanced (Good to Mention)]]**
 
 - Hot vs cold data storage
 
@@ -177,14 +177,3 @@
 - Multi-region setup basics
 
 - GDPR/data retention awareness
-
-
----
-
-✅ For **3 years Java developer interviews**, interviewers mostly expect you to:
-
-- Design **medium-scale systems** (e.g., URL shortener, e-commerce order system, notification system)
-
-- Explain **trade-offs** (SQL vs NoSQL, sync vs async)
-
-- Connect theory with **Spring Boot + Kafka + DB** real-world examples

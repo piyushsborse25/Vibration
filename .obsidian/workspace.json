@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Chapter 1 - Fundamentals of System Design.md",
-                "mode": "preview",
+                "file": "System Design/Track (3 Years Java Developer).md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Fundamentals of System Design"
+              "title": "Track (3 Years Java Developer)"
             }
           }
         ]
@@ -169,12 +169,24 @@
   },
   "active": "254489ecd69a94be",
   "lastOpenFiles": [
+    "System Design/Chapters/Chapter 11 - Advanced (Good to Mention).md",
     "System Design/Track (3 Years Java Developer).md",
-    "System Design/Chapter 1 - Fundamentals of System Design.md",
+    "System Design/Chapters/Chapter 10 - Security in System Design.md",
+    "System Design/Chapters/Chapter 9 - Deployment & Observability.md",
+    "The Path.md",
+    "System Design/Chapters/Chapter 8 - Scalability & Resilience.md",
+    "System Design/Chapters/Chapter 7 – Architecture Patterns.md",
+    "System Design/Chapters/Chapter 6 - Messaging & Asynchronous Processing.md",
+    "System Design/Chapters/Chapter 5 – Caching & Performance.md",
+    "System Design/Chapters/Chapter 4 - Consistency & Reliability.md",
+    "System Design/Chapters/Chapter 3 – Databases & Storage Systems.md",
+    "System Design/Chapters/Chapter 2 - Networking & APIs.md",
+    "System Design/Chapters/Chapter 1 - Fundamentals of System Design.md",
+    "System Design/Chapters.md",
+    "System Design/Chapters",
     "ZStash/SD Path.md",
     "ZStash",
     "Untitled.md",
-    "The Path.md",
     "System Design",
     "Java/Collections.md",
     "README.md",
@@ -187,11 +199,6 @@
     "ElasticSearch/Answers/9. Java Spring Boot Integration.md",
     "ElasticSearch/Answers/10. Advanced & Real-World Scenarios.md",
     "ElasticSearch/Answers/7. Cluster Management.md",
-    "ElasticSearch/Answers/6. Shards, Replicas, & Scaling.md",
-    "ElasticSearch/Answers/5. Aggregations.md",
-    "ElasticSearch/Answers/1. Fundamentals & Core Concepts.md",
-    "ElasticSearch/Answers/3. Mapping & Analyzers.md",
-    "ElasticSearch/Answers/4. Query DSL.md",
     "ElasticSearch/Answers",
     "ElasticSearch"
   ]
