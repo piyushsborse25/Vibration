@@ -1,4 +1,4 @@
-## **1. Fundamentals (must-have)**
+## **[[Chapter 1 - Fundamentals of System Design]]**
 
 - High-level vs Low-level Design
 

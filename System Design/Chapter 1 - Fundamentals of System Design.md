@@ -372,5 +372,3 @@ When facing any system design question:
     
 
 If you consistently follow this structure, you will come across as systematic, thoughtful, and pragmatic — exactly what interviewers are looking for in a system design round.
-
----
