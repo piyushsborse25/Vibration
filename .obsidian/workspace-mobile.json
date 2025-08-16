@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Track (3 Years Java Developer).md",
+                "file": "System Design/Chapters/Chapter 8 - Scalability & Resilience.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Track (3 Years Java Developer)"
+              "title": "Chapter 8 - Scalability & Resilience"
             }
           }
         ]
@@ -154,8 +154,10 @@
   },
   "active": "9485ebdaf4b0bc3a",
   "lastOpenFiles": [
-    "System Design/Chapter 1 - Fundamentals of System Design.md",
     "System Design/Track (3 Years Java Developer).md",
+    "System Design/Chapters/Chapter 9 - Deployment & Observability.md",
+    "System Design/Chapters/Chapter 10 - Security in System Design.md",
+    "System Design/Chapter 1 - Fundamentals of System Design.md",
     "ElasticSearch/Answers/5. Aggregations.md",
     "ElasticSearch/50 Elasticsearch interview questions.md",
     "ElasticSearch/Answers/1. Fundamentals & Core Concepts.md",
