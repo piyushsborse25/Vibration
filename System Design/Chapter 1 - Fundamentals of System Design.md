@@ -1,10 +1,3 @@
-
----
-
-# 📖 Chapter 1: Fundamentals of System Design
-
----
-
 ## 1.1 Introduction
 
 Every system design interview — whether you are asked to build a URL shortener, an e-commerce platform, or a notification service — begins with fundamentals. These fundamentals are not about picking a specific database or deciding whether Kafka or RabbitMQ is better; instead, they are about how you think about a system in the first place.
