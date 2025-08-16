@@ -177,3 +177,17 @@
 - Multi-region setup basics
 
 - GDPR/data retention awareness
+
+---
+
+# **[[Chapter 12 – System Design Interview Questions]]**
+
+-  12.1 Fundamentals (Basics)
+
+-  12.2 Intermediate (Most Common)
+
+-  12.3 Applied Real-World
+
+-  12.4 Advanced Distributed Systems
+
+-  12.5 Global & Cutting Edge
