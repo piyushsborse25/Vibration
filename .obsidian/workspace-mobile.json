@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Chapters/Chapter 8 - Scalability & Resilience.md",
+                "file": "System Design/Chapters/Chapter 12 – System Design Interview Questions.md",
                 "mode": "preview",
-                "source": true
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 8 - Scalability & Resilience"
+              "title": "Chapter 12 – System Design Interview Questions"
             }
           }
         ]
@@ -95,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "System Design/Track (3 Years Java Developer).md",
+            "file": "System Design/Chapters/Chapter 12 – System Design Interview Questions.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,8 +156,18 @@
   "active": "9485ebdaf4b0bc3a",
   "lastOpenFiles": [
     "System Design/Track (3 Years Java Developer).md",
-    "System Design/Chapters/Chapter 9 - Deployment & Observability.md",
+    "System Design/Chapters/Chapter 11 - Advanced (Good to Mention).md",
     "System Design/Chapters/Chapter 10 - Security in System Design.md",
+    "System Design/Chapters/Chapter 9 - Deployment & Observability.md",
+    "System Design/Chapters/Chapter 8 - Scalability & Resilience.md",
+    "System Design/Chapters/Chapter 7 – Architecture Patterns.md",
+    "System Design/Chapters/Chapter 6 - Messaging & Asynchronous Processing.md",
+    "System Design/Chapters/Chapter 12 – System Design Interview Questions.md",
+    "System Design/Chapters/Chapter 5 – Caching & Performance.md",
+    "System Design/Chapters/Chapter 3 – Databases & Storage Systems.md",
+    "System Design/Chapters/Chapter 4 - Consistency & Reliability.md",
+    "System Design/Chapters/Chapter 2 - Networking & APIs.md",
+    "System Design/Chapters/Chapter 1 - Fundamentals of System Design.md",
     "System Design/Chapter 1 - Fundamentals of System Design.md",
     "ElasticSearch/Answers/5. Aggregations.md",
     "ElasticSearch/50 Elasticsearch interview questions.md",

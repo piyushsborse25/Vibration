@@ -1,5 +1,5 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "mobilePullAction": "editor:paste",
   "mobileToolbarCommands": [
     "editor:undo",
@@ -24,6 +24,7 @@
     "editor:toggle-checklist-status",
     "editor:configure-toolbar"
   ],
-  "livePreview": false,
-  "mobileQuickRibbonItem": ""
+  "livePreview": true,
+  "mobileQuickRibbonItem": "",
+  "defaultViewMode": "preview"
 }

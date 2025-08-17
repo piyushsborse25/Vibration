@@ -1,5 +1,8 @@
 {
   "theme": "system",
   "baseFontSizeAction": true,
-  "cssTheme": ""
+  "cssTheme": "Blue Topaz",
+  "baseFontSize": 18,
+  "interfaceFontFamily": "Roboto",
+  "textFontFamily": "Roboto"
 }

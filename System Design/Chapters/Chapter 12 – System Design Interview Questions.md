@@ -1,3 +1,5 @@
+### [Try on YouTube](https://youtube.com/playlist?list=PLRtLu6rCuAlkO-HiER3AKoKkSG5DPp9TX&si=btHCBXHa96mOaG91) 
+
 ### **A. Basics / Fundamentals (1–10)**
 
 1. Design a **URL Shortener** (like bit.ly).
