@@ -1,3 +1,6 @@
+### [Byte Monk](https://youtube.com/playlist?list=PLJq-63ZRPdBt423WbyAD1YZO0Ljo1pzvY&si=XmekirtPo34tfE1q)
+### [BM Questions](https://youtube.com/playlist?list=PLJq-63ZRPdBssWTtcUlbngD_O5HaxXu6k&si=u1Llr5vb6JGqqQt8) 
+
 ## **[[Chapter 1 - Fundamentals of System Design]]**
 
 - High-level vs Low-level Design
