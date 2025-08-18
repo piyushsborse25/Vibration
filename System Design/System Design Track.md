@@ -171,29 +171,43 @@
 ## **[[Chapter 11 - Advanced (Good to Mention)]]**
 
 - Hot vs cold data storage
-
 - Schema evolution (Avro, Protobuf with Kafka)
-
 - Multi-region setup basics
-
 - GDPR/data retention awareness
 
 ---
 
 # **[[Chapter 12 – Categorized System Design Questions]]**
 
--  12.1 Fundamentals (Basics)
+- Social Networks & Feeds  
 
--  12.2 Intermediate (Most Common)
+- Messaging & Collaboration  
 
--  12.3 Applied Real-World
+- Media Streaming (Video/Music)  
 
--  12.4 Advanced Distributed Systems
+- Ride-Hailing / Delivery  
 
--  12.5 Global & Cutting Edge
+- E-commerce & Payments  
+
+- Distributed Systems & Infra  
+
+- Ads & Search  
+
+- File Storage & Sync  
+
+- Enterprise & Task Management  
+
+- Marketplaces & Booking  
+
+- Communication Utilities  
+
+- Governance & Security  
+
 
 ## 📚 Resources  
 
+- [System Design was HARD until I Learned these 30 Concepts](https://youtu.be/s9Qh9fWeOAk?si=r-K_j8z04BgrnrIj)
+- [Interview Pen](https://youtube.com/playlist?list=PLPkuArhPxxQGkbl-_STo8FFxBBB4ri-tl&si=U7k2XTBNRayHAVFN)
 - [Byte Monk](https://youtube.com/playlist?list=PLJq-63ZRPdBt423WbyAD1YZO0Ljo1pzvY&si=XmekirtPo34tfE1q)  
 - [BM Questions](https://youtube.com/playlist?list=PLJq-63ZRPdBssWTtcUlbngD_O5HaxXu6k&si=u1Llr5vb6JGqqQt8)  
 - [Mastering the System Design Interview](https://www.udemy.com/share/105lfQ3@35wprKQG9_CiVb4YlHLR8oONruYoAhw_j9pjf8VE8VETMDJ4pF_pW5imH08KnYhX/)

@@ -69,7 +69,7 @@
 
 ### **Distributed Systems & Infra**
 
-- Rate Limiter for APIs
+- [Rate Limiter for APIs](https://youtu.be/VzW41m4USGs?si=TVNkrxPo34Upj0WG)
     
 - Key-Value Store (Redis-like)
     
@@ -102,7 +102,7 @@
     
 - Ad System (Google Ads/Facebook Ads)
     
-- Search Engine (Google Search basics)
+- [Search Engine (Google Search basics)](https://youtu.be/0LTXCcVRQi0?si=9K-ge31JGX8WIS7_)
     
 - URL Crawler (Google Bot)
     
@@ -113,7 +113,7 @@
 
 - File Storage Service (Google Drive basic)
     
-- Dropbox (File Sync across devices)
+- [Dropbox (File Sync across devices)](https://youtu.be/jLM1nGgsT-I?si=TOptMt32UaGi-tSJ)
     
 
 ---
