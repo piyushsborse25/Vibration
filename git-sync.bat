@@ -11,6 +11,8 @@ for /f "tokens=1-5 delims=/:. " %%d in ("%date% %time%") do (
 set MESSAGE=%PREFIX% %TIMESTAMP%
 
 :: Perform Git operations
+git fetch
+git pull
 git add .
 git commit -m "%MESSAGE%"
 git push
