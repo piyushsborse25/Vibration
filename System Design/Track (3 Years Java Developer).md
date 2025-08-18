@@ -1,6 +1,3 @@
-### [Byte Monk](https://youtube.com/playlist?list=PLJq-63ZRPdBt423WbyAD1YZO0Ljo1pzvY&si=XmekirtPo34tfE1q)
-### [BM Questions](https://youtube.com/playlist?list=PLJq-63ZRPdBssWTtcUlbngD_O5HaxXu6k&si=u1Llr5vb6JGqqQt8) 
-
 ## **[[Chapter 1 - Fundamentals of System Design]]**
 
 - High-level vs Low-level Design
@@ -183,7 +180,7 @@
 
 ---
 
-# **[[Chapter 12 – System Design Interview Questions]]**
+# **[[Chapter 12 – Categorized System Design Questions]]**
 
 -  12.1 Fundamentals (Basics)
 
@@ -194,3 +191,11 @@
 -  12.4 Advanced Distributed Systems
 
 -  12.5 Global & Cutting Edge
+
+## 📚 Resources  
+
+- [Byte Monk](https://youtube.com/playlist?list=PLJq-63ZRPdBt423WbyAD1YZO0Ljo1pzvY&si=XmekirtPo34tfE1q)  
+- [BM Questions](https://youtube.com/playlist?list=PLJq-63ZRPdBssWTtcUlbngD_O5HaxXu6k&si=u1Llr5vb6JGqqQt8)  
+- [Mastering the System Design Interview](https://www.udemy.com/share/105lfQ3@35wprKQG9_CiVb4YlHLR8oONruYoAhw_j9pjf8VE8VETMDJ4pF_pW5imH08KnYhX/)
+- [System Design Interview Question](https://youtube.com/playlist?list=PLPtUyMfD0mNJDZg50fg2CptjLBavHot47&si=ZmPRDiT99C9DURhR)  
+- [System Design School](https://systemdesignschool.io/primer#introduction)

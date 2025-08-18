@@ -26,5 +26,6 @@
   ],
   "livePreview": true,
   "mobileQuickRibbonItem": "",
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true
 }

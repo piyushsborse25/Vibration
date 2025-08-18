@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Chapters/Chapter 12 – System Design Interview Questions.md",
-                "mode": "source",
+                "file": "System Design/Track (3 Years Java Developer).md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter 12 – System Design Interview Questions"
+              "title": "Track (3 Years Java Developer)"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -169,8 +169,11 @@
   },
   "active": "254489ecd69a94be",
   "lastOpenFiles": [
+    "System Design/Chapters/Chapter 12 – Categorized System Design Questions.md",
     "System Design/Track (3 Years Java Developer).md",
-    "System Design/Chapters/Chapter 12 – System Design Interview Questions.md",
+    "System Design/Chapters/Chapter 1 - Fundamentals of System Design.md",
+    "System Design/Chapters/Chapter 3 – Databases & Storage Systems.md",
+    "202508181221.md",
     "System Design/Chapters/Chapter 11 - Advanced (Good to Mention).md",
     "System Design/Chapters/Chapter 10 - Security in System Design.md",
     "System Design/Chapters/Chapter 9 - Deployment & Observability.md",
@@ -180,9 +183,7 @@
     "System Design/Chapters/Chapter 6 - Messaging & Asynchronous Processing.md",
     "System Design/Chapters/Chapter 5 – Caching & Performance.md",
     "System Design/Chapters/Chapter 4 - Consistency & Reliability.md",
-    "System Design/Chapters/Chapter 3 – Databases & Storage Systems.md",
     "System Design/Chapters/Chapter 2 - Networking & APIs.md",
-    "System Design/Chapters/Chapter 1 - Fundamentals of System Design.md",
     "System Design/Chapters.md",
     "System Design/Chapters",
     "ZStash/SD Path.md",
@@ -198,7 +199,6 @@
     "ElasticSearch/Answers/11. Queries & Filters.md",
     "ElasticSearch/Answers/8. Mappings & Analysis.md",
     "ElasticSearch/Answers/9. Java Spring Boot Integration.md",
-    "ElasticSearch/Answers/10. Advanced & Real-World Scenarios.md",
     "ElasticSearch/Answers",
     "ElasticSearch"
   ]
