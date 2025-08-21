@@ -38,14 +38,14 @@
 
 ---
 
-4.  **Find the 2nd highest length word in the given sentence**:
+4.  **Find the 2nd highest length of a word in the given sentence**:
     Given the sentence:
     ```java
     String sentence = "Streams are powerful and concise";
     ```
     **Output**:
     ```java
-    concise
+    7
     ```
 
 ---
