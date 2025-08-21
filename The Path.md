@@ -1,8 +1,6 @@
 ### 1. **System Design & Distributed Systems**
  
  
-- System Design Fundamentals
- 
 - **Consistency & Reliability** 
  
   - ACID Properties
