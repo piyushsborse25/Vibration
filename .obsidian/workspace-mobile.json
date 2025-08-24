@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Streams.md",
+                "file": "Java/Multithreading/ExecutorService/Chapters/Chapter 4 - Thread Pools in Depth.md",
                 "mode": "preview",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Streams"
+              "title": "Chapter 4 - Thread Pools in Depth"
             }
           }
         ]
@@ -96,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Java/Streams.md",
+            "file": "Java/Multithreading/ExecutorService/Chapters/Chapter 2 - The Executor Framework Architecture.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,6 +165,14 @@
   },
   "active": "9485ebdaf4b0bc3a",
   "lastOpenFiles": [
+    "Java/Multithreading/ExecutorService/The ExecutorService Handbook.md",
+    "Java/Multithreading/ExecutorService/Chapters/Chapter 4 - Thread Pools in Depth.md",
+    "Java/Multithreading/ExecutorService/Chapters/Chapter 3 - Types of Executor Services in Java.md",
+    "Java/Multithreading/ExecutorService/Chapters/Chapter 2 - The Executor Framework Architecture.md",
+    "Java/Multithreading/ExecutorService/Chapters/Chapter 1 - Introduction to ExecutorService.md",
+    "Untitled.base",
+    "Java/Multithreading/ExecutorService/Chapters/Chapter 5 - Submitting Tasks to ExecutorService.md",
+    "Java/Streams.md",
     "Java/Collections.md",
     "System Design/System Design Track.md",
     "System Design/Chapters/Chapter 12 – Categorized System Design Questions.md",
@@ -175,13 +192,6 @@
     "System Design/Chapters/Chapter 4 - Consistency & Reliability.md",
     "System Design/Chapters/Chapter 2 - Networking & APIs.md",
     "System Design/Chapter 1 - Fundamentals of System Design.md",
-    "ElasticSearch/Answers/5. Aggregations.md",
-    "ElasticSearch/50 Elasticsearch interview questions.md",
-    "ElasticSearch/Answers/1. Fundamentals & Core Concepts.md",
-    "Java/System Design.md",
-    "README.md",
-    "ttt.md",
-    "Grouping By.md",
     "Untitled",
     "git-sync.bat",
     "got-sync.bat",
