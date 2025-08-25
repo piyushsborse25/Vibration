@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Multithreading/ExecutorService/Chapters/Chapter 4 - Thread Pools in Depth.md",
+                "file": "Java/Streams/Streams Answers.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 4 - Thread Pools in Depth"
+              "title": "Streams Answers"
             }
           }
         ]
@@ -105,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Java/Multithreading/ExecutorService/Chapters/Chapter 2 - The Executor Framework Architecture.md",
+            "file": "DSA/Must-know Classic Problems.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,6 +165,9 @@
   },
   "active": "9485ebdaf4b0bc3a",
   "lastOpenFiles": [
+    "DSA/Must-know Classic Problems.md",
+    "Java/Streams/Streams Answers.md",
+    "DSA/Dynamic Programming Problems Categorized.md",
     "Java/Multithreading/ExecutorService/The ExecutorService Handbook.md",
     "Java/Multithreading/ExecutorService/Chapters/Chapter 4 - Thread Pools in Depth.md",
     "Java/Multithreading/ExecutorService/Chapters/Chapter 3 - Types of Executor Services in Java.md",
@@ -189,9 +192,6 @@
     "System Design/Chapters/Chapter 6 - Messaging & Asynchronous Processing.md",
     "System Design/Chapters/Chapter 5 – Caching & Performance.md",
     "System Design/Chapters/Chapter 3 – Databases & Storage Systems.md",
-    "System Design/Chapters/Chapter 4 - Consistency & Reliability.md",
-    "System Design/Chapters/Chapter 2 - Networking & APIs.md",
-    "System Design/Chapter 1 - Fundamentals of System Design.md",
     "Untitled",
     "git-sync.bat",
     "got-sync.bat",
