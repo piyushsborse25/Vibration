@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Streams/Streams Answers.md",
+                "file": "Spring Boot/Two Beans.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Streams Answers"
+              "title": "Two Beans"
             }
           }
         ]
@@ -165,8 +165,8 @@
   },
   "active": "9485ebdaf4b0bc3a",
   "lastOpenFiles": [
-    "DSA/Must-know Classic Problems.md",
     "Java/Streams/Streams Answers.md",
+    "DSA/Must-know Classic Problems.md",
     "DSA/Dynamic Programming Problems Categorized.md",
     "Java/Multithreading/ExecutorService/The ExecutorService Handbook.md",
     "Java/Multithreading/ExecutorService/Chapters/Chapter 4 - Thread Pools in Depth.md",
