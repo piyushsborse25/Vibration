@@ -1,0 +1,100 @@
+For Freshers  
+1. Is Java Platform Independent? If yes, how?  
+2. What are the top Java Features?  
+3. What is JVM?  
+4. What is JIT?  
+5. What are memory storages available with JVM?  
+6. What is a ClassLoader?  
+7. What are the differences between JVM, JRE, and JDK?  
+8. What are the differences between Java and C++?  
+9. Explain `public static void main(String args[])` in Java.  
+10. What is Java String Pool?  
+11. What will happen if we don’t declare the main method as static?  
+12. What are Packages in Java?  
+13. Why are Packages used?  
+14. What are the advantages of Packages in Java?  
+15. How many types of packages are there in Java?  
+16. Explain different data types in Java.  
+17. When is the `byte` datatype used?  
+18. Can we declare Pointers in Java?  
+19. What is the default value of the `byte` datatype in Java?  
+20. What is the default value of `float` and `double` datatypes in Java?  
+21. What is the Wrapper class in Java?  
+22. Why do we need Wrapper classes?  
+23. Differentiate between instance and local variables.  
+24. What are the default values assigned to variables and instances in Java?  
+25. What are static methods and variables in Java?  
+26. Explain the concept of inheritance in Java.  
+27. What is method overloading?  
+28. What is method overriding?  
+29. Explain the `this` keyword in Java.  
+30. What is the `final` keyword in Java?  
+31. What is the `super` keyword in Java?  
+32. What are access modifiers in Java?  
+33. What is the difference between `==` and `.equals()` in Java?  
+34. What is an abstract class?  
+35. What is an interface? 
+
+For Intermediate Level  
+36. Explain multithreading in Java.  
+37. What is the difference between `Runnable` and `Thread`?  
+38. What is a synchronized block in Java?  
+39. What are deadlocks in multithreading?  
+40. Explain Java Collections Framework.  
+41. What is the difference between `ArrayList` and `LinkedList`?  
+42. What are the key differences between `HashSet` and `TreeSet`?  
+43. Explain `HashMap` vs `TreeMap`.  
+44. What are Generics in Java?  
+45. What is exception handling in Java?  
+46. What is the difference between checked and unchecked exceptions?  
+47. What are custom exceptions in Java?  
+48. Explain trycatchfinally blocks.  
+49. What is a `throw` vs `throws` in Java?  
+50. What is garbage collection in Java?  
+51. How does the `finalize()` method work?  
+52. What is the `StringBuilder` vs `StringBuffer`?  
+53. What are functional interfaces in Java?  
+54. What is the Lambda Expression?  
+55. Explain Stream API in Java.  
+56. What are the differences between serialization and deserialization?  
+57. What is Reflection in Java?  
+58. What are annotations in Java?  
+59. What is the Singleton Design Pattern?  
+60. Explain Factory Design Pattern.  
+
+For Experienced Professionals  
+61. How is Java memory managed?  
+62. What are the differences between Heap and Stack memory?  
+63. Explain the concept of `volatile` in Java.  
+64. What is a ConcurrentHashMap?  
+65. Explain Reentrant Locks in Java.  
+66. What is the `ThreadLocal` class?  
+67. What are the types of class loaders in Java?  
+68. What are soft, weak, and phantom references in Java?  
+69. How does the Java `HashMap` work internally?  
+70. Explain the difference between `Comparable` and `Comparator`.  
+71. What is the difference between shallow and deep cloning?  
+72. Explain how to implement a custom class loader.  
+73. What is the Fork/Join Framework?  
+74. What is the ExecutorService framework?  
+75. What are the differences between Java 8 and Java 11?  
+76. What is Module System in Java 9?  
+77. How does Java achieve platform independence?  
+78. What is the Java Memory Model (JMM)?  
+79. Explain the DoubleChecked Locking idiom.  
+80. What are CompletableFutures?  
+81. How to handle large amounts of data in Java using Streams?  
+82. What is the difference between `mergeSort()` and `parallelStream()`?  
+83. Explain Java's NonBlocking I/O (NIO).  
+84. What is the `invokeAll()` method?  
+85. What is the role of `Semaphore` in multithreading?  
+86. Explain `CountDownLatch` and `CyclicBarrier`.  
+87. What is the significance of immutability in Java?  
+88. How is the performance of collections optimized in Java?  
+89. What is the use of dynamic proxies?  
+90. How are Java Annotations processed?  
+91. What is an Enum and how is it used in Java?  
+92. What is the difference between `String`, `StringBuilder`, and `StringBuffer`?  
+93. Explain BigO complexities for data structures in Java Collections.  
+94. What are functional programming constructs in Java?  
+95. How does Java handle memory leaks?  

@@ -1,0 +1,85 @@
+For a 3-year experienced software engineer, behavioral interview questions often focus on your ability to deliver impactful contributions, work effectively in teams, and demonstrate problem-solving capabilities in real-world scenarios. Here's a refined list tailored to your level of experience:
+
+---
+
+1. Self-Introduction and Background
+- Can you give a brief overview of your career so far?
+- What have been the most significant milestones in your career over the past three years?
+- What made you pursue a career in software engineering?
+
+---
+
+2. Key Achievements and Contributions
+- What is the most impactful project you have worked on? What was your role?
+- Share an example of a technical solution you designed or implemented that had a measurable impact.
+- Have you contributed to any innovations or introduced efficiencies in your projects? 
+
+---
+
+3. Problem-Solving and Critical Thinking
+- Describe a time when you had to debug a critical issue in a live environment. How did you resolve it?
+- Tell me about a challenging bug you fixed and the steps you took to find the root cause.
+- How have you improved the performance or scalability of an application?
+
+---
+
+4. Teamwork and Collaboration
+- Describe a situation where you worked closely with other team members to complete a project. How did you collaborate effectively?
+- Have you mentored junior team members or helped your peers with technical challenges?
+- Share an experience where cross-functional collaboration was critical to a project’s success.
+
+---
+
+5. Adaptability and Learning
+- Tell me about a time you had to quickly learn a new technology or tool to complete a project.
+- How have you adapted to significant changes in project scope or deadlines?
+- What strategies do you use to stay current with industry trends?
+
+---
+
+6. Leadership and Initiative
+- Have you taken the lead on a project or task? How did you ensure its success?
+- Tell me about a time you suggested a process or workflow improvement.
+- Share an example where you proactively resolved a potential issue before it became a problem.
+
+---
+
+7. Handling Deadlines and Pressure
+- Describe a situation where you had to deliver a project under a tight deadline. How did you manage your time and prioritize tasks?
+- How do you handle competing priorities in your workload?
+- Share an experience where unexpected issues threatened to derail a project. What steps did you take to ensure timely delivery?
+
+---
+
+8. Client and Stakeholder Management
+- Have you worked directly with clients or stakeholders? How did you ensure their requirements were met?
+- Describe a time you had to explain a complex technical issue to a non-technical stakeholder.
+- How have you managed conflicting priorities or feedback from stakeholders?
+
+---
+
+9. Feedback and Growth
+- Share an instance where you received constructive criticism. How did you use it to improve?
+- What is a specific skill or area you have worked on improving over the past three years?
+- Describe a time you sought feedback to improve your work or project outcomes.
+
+---
+
+10. Career Goals and Motivation
+- What motivates you to continue growing as a software engineer?
+- How do you see this role contributing to your professional growth?
+- Where do you see yourself in the next few years?
+
+---
+
+11. Company-Specific and Role-Specific
+- Why are you interested in this company and role?
+- How do your skills and experience align with the requirements of this job?
+- What value do you think you can bring to this position based on your experience?
+
+---
+
+Preparation Tips for 3 Years of Experience
+- Focus on real-world experiences: Highlight tangible outcomes and measurable results (e.g., “Reduced API response time by 66%” or “Enhanced application security by eliminating SQL injection vulnerabilities”).
+- Showcase growth: Demonstrate how you’ve advanced in your skills, responsibilities, and problem-solving abilities over the past three years.
+- Prepare to discuss tools and technologies: Expect in-depth questions on tools and frameworks you’ve used (e.g., Spring Boot, Docker, Kubernetes, Elasticsearch).

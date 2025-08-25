@@ -1,0 +1,117 @@
+Here’s an even more comprehensive set of tricky Java Core questions that dive into edge cases, less-known behaviors, and deeper concepts:
+
+---
+
+1. Object-Oriented Programming
+1. What happens if a superclass constructor calls an overridden method in a subclass? What are the risks?
+2. Can you have a class that is both `final` and `abstract`? Why or why not?
+3. Is it possible to cast an object of one type to another unrelated type? If yes, under what conditions?
+4. What is the difference between "composition over inheritance"? Why is it preferred in some scenarios?
+5. Can you create an instance of an abstract class in Java? If yes, how?
+
+---
+
+2. Exception Handling
+1. Can you declare a `throws` clause for a method that doesn't throw any exceptions? Why would you do this?
+2. What happens if you call `throw null` in Java? Will it compile and execute?
+3. Is it possible for a `catch` block to handle multiple unrelated exception types? How does the compiler determine this?
+4. Can you define an exception class without extending `Throwable`? What happens?
+5. What happens if you catch `Error` or `Throwable` instead of specific exceptions?
+
+---
+
+3. Multithreading and Concurrency
+1. Can a thread acquire multiple locks at the same time? What problems can this lead to?
+2. What is the difference between a live lock and a deadlock? Provide examples.
+3. Can you implement a thread-safe singleton without using `synchronized`? If so, how?
+4. What is the difference between `ThreadLocalRandom` and `Random`? Why was `ThreadLocalRandom` introduced?
+5. Explain the difference between `AtomicInteger` and using `synchronized` for increment operations.
+
+---
+
+4. JVM Internals
+1. What happens if you dynamically load a class using `Class.forName()`? How is this different from static loading?
+2. How does the JVM optimize bytecode during runtime (e.g., JIT compilation)?
+3. What is the difference between `Heap` and `Non-Heap` memory in the JVM?
+4. What is the role of the `Code Cache` area in the JVM? How does it relate to the Just-In-Time (JIT) compiler?
+5. Explain how method inlining works in the JVM. How does it improve performance?
+
+---
+
+5. Strings and String Pool
+1. What happens if you modify a string using reflection? Will it still be immutable?
+2. How is a `String` represented internally in Java 9+? What optimization was introduced?
+3. Can you use a `String` as a key in a `HashMap`? What are the implications of its immutability?
+4. What happens if two strings with the same content but different memory addresses are concatenated? Does it go into the string pool?
+5. How does `String` interning differ before and after Java 7?
+
+---
+
+6. Collections Framework
+1. How does `PriorityQueue` ensure the order of elements? Can it contain `null` elements?
+2. What is the difference between a `Deque` and a `Queue`? How does `ArrayDeque` optimize over `LinkedList`?
+3. How does a `ConcurrentHashMap` split its buckets for thread safety? What is the role of the "concurrency level"?
+4. What happens if you use a mutable object as a key in a `TreeMap`? What edge cases can this lead to?
+5. Why is `Collections.unmodifiableList()` not truly immutable? How does it behave differently from `List.of()`?
+
+---
+
+7. Serialization
+1. Can you serialize an inner class? What are the constraints for doing so?
+2. What happens if a serialized class does not have a `serialVersionUID`? How does Java handle version mismatches?
+3. Can you customize the serialization process? How would you use `writeObject` and `readObject`?
+4. Is it possible to serialize an object containing circular references? How does Java handle this?
+5. How does transient work with final fields? Can a final field be transient?
+
+---
+
+8. Advanced Java Keywords
+1. What happens if you declare a class as `static`? In what contexts is this allowed?
+2. Can an interface contain `static` methods? Why was this feature introduced in Java 8?
+3. What does the `strictfp` keyword do? In what situations would you use it?
+4. What is the difference between `synchronized(this)` and `synchronized(className.class)`?
+5. Can you use `super` to call a method in a grandparent class directly?
+
+---
+
+9. Reflection and Introspection
+1. Can you create an object of a private class using reflection? How?
+2. How does `Proxy` in `java.lang.reflect` work? Can it proxy multiple interfaces at once?
+3. What is the difference between `Method.invoke()` and directly calling a method? How does the JVM handle this?
+4. Can you use reflection to bypass final field immutability? What are the consequences?
+5. What are the performance implications of using reflection extensively?
+
+---
+
+10. Lambda Expressions and Streams
+1. Can you use `this` inside a lambda expression? How does it behave differently compared to an anonymous class?
+2. What happens if you use a `Stream` after its terminal operation? Why is it designed this way?
+3. How does `reduce()` work in streams? What is the significance of the identity parameter?
+4. What is the difference between `flatMap()` and `map()`? Provide examples.
+5. Can you parallelize a `Stream` that operates on non-thread-safe collections? What precautions should you take?
+
+---
+
+11. Class Loading and Initialization
+1. What is the difference between a `NoClassDefFoundError` and a `ClassNotFoundException`? When do they occur?
+2. How does a static initializer block differ from an instance initializer block?
+3. Can you load a class twice in Java? How would this be achieved using custom class loaders?
+4. What happens if the `main()` method of a class is declared as `private`? Will it execute?
+5. Can a static block throw exceptions? If yes, how does the JVM handle it?
+
+---
+
+12. Miscellaneous
+1. How does Java handle circular dependencies between classes? Provide an example.
+2. Can a method be `synchronized` and `native` at the same time? What is the significance of such a combination?
+3. What happens if you override `hashCode()` but not `equals()`? What problems can this cause?
+4. Explain why Java does not support multiple inheritance for classes but allows it for interfaces.
+5. What is the difference between `System.out.println()`, `System.err.println()`, and `System.in.read()`? How do they work internally?
+
+---
+
+Bonus Tricky Question
+Q: What happens if you add a `null` element to a `TreeSet`?  
+- Answer: If the `TreeSet` uses a natural ordering (default `Comparable`), adding `null` will throw a `NullPointerException` because `null` cannot be compared to other elements. If you use a custom `Comparator` that supports `null`, the behavior depends on how the comparator handles `null`.
+
+---
