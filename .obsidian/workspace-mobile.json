@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/Two Beans.md",
+                "file": "Spring Boot/Spring PagingAndSortingRepository.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Two Beans"
+              "title": "Spring PagingAndSortingRepository"
             }
           }
         ]
@@ -165,6 +165,7 @@
   },
   "active": "9485ebdaf4b0bc3a",
   "lastOpenFiles": [
+    "Spring Boot/Two Beans.md",
     "Java/Streams/Streams Answers.md",
     "DSA/Must-know Classic Problems.md",
     "DSA/Dynamic Programming Problems Categorized.md",
@@ -191,7 +192,6 @@
     "System Design/Chapters/Chapter 7 – Architecture Patterns.md",
     "System Design/Chapters/Chapter 6 - Messaging & Asynchronous Processing.md",
     "System Design/Chapters/Chapter 5 – Caching & Performance.md",
-    "System Design/Chapters/Chapter 3 – Databases & Storage Systems.md",
     "Untitled",
     "git-sync.bat",
     "got-sync.bat",
