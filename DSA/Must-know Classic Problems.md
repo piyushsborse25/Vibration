@@ -1,497 +1,295 @@
-### **1. Arrays**
+## 🔹 Arrays
 
-- Maximum Subarray (Kadane’s Algorithm)
+1. Two Sum / 3Sum / 4Sum
     
-- Merge Intervals
+2. Maximum Subarray (Kadane’s Algorithm)
     
-- Rotate Array
+3. Merge Intervals
     
-- Product of Array Except Self
+4. Insert Interval
     
-- Spiral Matrix
+5. Set Matrix Zeroes
     
-- Set Matrix Zeroes
+6. Rotate Matrix (90°)
     
-- Trapping Rain Water
+7. Spiral Matrix
     
-- Insert Interval
+8. Trapping Rain Water
     
-- Summary Ranges
+9. Product of Array Except Self
     
-- Best Time to Buy and Sell Stock
+10. Find the Duplicate Number
     
-
----
-
-### **2. Two Pointers**
-
-- Two Sum II – Input Array is Sorted
+11. Missing Number
     
-- Three Sum
+12. Merge Sorted Arrays
     
-- Container With Most Water
+13. Search in Rotated Sorted Array
     
-- Remove Duplicates from Sorted Array
-    
-- Sort Colors (Dutch National Flag)
-    
-- Move Zeroes
-    
-- Remove Element
-    
-- Valid Palindrome
-    
-- Minimum Size Subarray Sum
-    
-- Boats to Save People
+14. Median of Two Sorted Arrays
     
 
 ---
 
-### **3. Sliding Window**
+## 🔹 Strings
 
-- Longest Substring Without Repeating Characters
+15. Longest Substring Without Repeating Characters
     
-- Minimum Window Substring
+16. Longest Palindromic Substring
     
-- Maximum Sliding Window
+17. Longest Common Prefix
     
-- Longest Repeating Character Replacement
+18. Valid Anagram
     
-- Permutation in String
+19. Group Anagrams
     
-- Find All Anagrams in a String
+20. Valid Parentheses
     
-- Substrings of Size Three with Distinct Characters
+21. Minimum Window Substring
     
-- Longest Subarray of 1’s After Deleting One Element
+22. String to Integer (atoi)
     
-- Binary Subarrays With Sum
+23. Regular Expression Matching
     
-- Count Occurrences of Anagrams
-    
-
----
-
-### **4. Prefix Sum**
-
-- Subarray Sum Equals K
-    
-- Continuous Subarray Sum
-    
-- Range Sum Query – Immutable
-    
-- Range Sum Query – 2D Immutable
-    
-- Maximum Size Subarray Sum Equals K
-    
-- Find Pivot Index
-    
-- Minimum Value to Get Positive Step by Step Sum
-    
-- Ways to Split Array into Three Subarrays
-    
-- Matrix Block Sum
-    
-- Count Subarrays With Median K
+24. Wildcard Matching
     
 
 ---
 
-### **5. Hashing**
+## 🔹 Sliding Window & Prefix Sum
 
-- Longest Consecutive Sequence
+25. Maximum Average Subarray
     
-- Group Anagrams
+26. Subarray Sum Equals K
     
-- Top K Frequent Elements
+27. Minimum Size Subarray Sum
     
-- Two Sum (HashMap)
+28. Longest Repeating Character Replacement
     
-- Isomorphic Strings
-    
-- Word Pattern
-    
-- Longest Substring with At Most K Distinct Characters
-    
-- Subarray Sum Divisible by K
-    
-- Randomized Set (Insert Delete GetRandom O(1))
-    
-- LRU Cache
+29. Sliding Window Maximum
     
 
 ---
 
-### **6. Strings**
+## 🔹 Linked List
 
-- Valid Palindrome
+30. Reverse Linked List
     
-- Longest Palindromic Substring
+31. Merge Two Sorted Lists
     
-- Implement strStr (KMP / Rabin-Karp)
+32. Linked List Cycle Detection
     
-- String to Integer (atoi)
+33. Remove Nth Node from End
     
-- Longest Common Prefix
+34. Reorder List
     
-- Regular Expression Matching
+35. Palindrome Linked List
     
-- Wildcard Matching
+36. Intersection of Two Linked Lists
     
-- Multiply Strings
-    
-- Add Binary
-    
-- Decode Ways
+37. Copy List with Random Pointer
     
 
 ---
 
-### **7. Stacks**
+## 🔹 Stacks & Queues
 
-- Valid Parentheses
+38. Implement Stack using Queues
     
-- Next Greater Element I
+39. Implement Queue using Stacks
     
-- Next Greater Element II
+40. Min Stack
     
-- Largest Rectangle in Histogram
+41. Evaluate Reverse Polish Notation
     
-- Min Stack
+42. Largest Rectangle in Histogram
     
-- Daily Temperatures
-    
-- Asteroid Collision
-    
-- Basic Calculator II
-    
-- Evaluate Reverse Polish Notation
-    
-- Decode String
+43. Sliding Window Maximum (Deque approach)
     
 
 ---
 
-### **8. Queues / Deque**
+## 🔹 Hashing
 
-- Sliding Window Maximum
+44. Two Sum (HashMap approach)
     
-- Rotten Oranges
+45. Longest Consecutive Sequence
     
-- Moving Average from Data Stream
+46. Subarray Sum Equals K
     
-- Design Circular Queue
+47. Isomorphic Strings
     
-- First Unique Character in a String
-    
-- Shortest Subarray with Sum at Least K
-    
-- Design Hit Counter
-    
-- Dota2 Senate
-    
-- Time Needed to Inform All Employees
-    
-- Recent Counter
+48. Happy Number
     
 
 ---
 
-### **9. Linked List**
+## 🔹 Recursion & Backtracking
 
-- Reverse Linked List
+49. Permutations
     
-- Detect Cycle in Linked List
+50. Permutations with Duplicates
     
-- Merge Two Sorted Lists
+51. Subsets (Power Set)
     
-- Remove Nth Node From End of List
+52. Combination Sum I / II / III
     
-- Add Two Numbers
+53. Generate Parentheses
     
-- Intersection of Two Linked Lists
+54. N-Queens
     
-- Palindrome Linked List
+55. Sudoku Solver
     
-- Copy List with Random Pointer
+56. Word Search
     
-- Rotate List
-    
-- Sort List
+57. Palindrome Partitioning
     
 
 ---
 
-### **10. Binary Search**
+## 🔹 Dynamic Programming
 
-- Search in Rotated Sorted Array
+58. Fibonacci (Top-down & Bottom-up)
     
-- Median of Two Sorted Arrays
+59. Climbing Stairs
     
-- Find Minimum in Rotated Sorted Array
+60. House Robber I & II
     
-- First Bad Version
+61. Coin Change
     
-- Search a 2D Matrix
+62. Minimum Path Sum
     
-- Find Peak Element
+63. Unique Paths I & II
     
-- Split Array Largest Sum
+64. Longest Increasing Subsequence
     
-- Capacity to Ship Packages Within D Days
+65. Edit Distance
     
-- Koko Eating Bananas
+66. Word Break
     
-- Aggressive Cows (Placement Problem)
+67. Maximum Product Subarray
     
-
----
-
-### **11. Sorting & Greedy**
-
-- Meeting Rooms II
+68. Palindrome Partitioning II (min cuts)
     
-- Non-overlapping Intervals
+69. Burst Balloons
     
-- Jump Game
-    
-- Jump Game II
-    
-- Candy
-    
-- Gas Station
-    
-- Task Scheduler
-    
-- Minimum Number of Arrows to Burst Balloons
-    
-- Reorganize String
-    
-- Partition Labels
+70. Matrix Chain Multiplication
     
 
 ---
 
-### **12. Recursion & Backtracking**
+## 🔹 Greedy
 
-- Subsets
+71. Activity Selection (Interval Scheduling)
     
-- Permutations
+72. Gas Station
     
-- N-Queens
+73. Jump Game I & II
     
-- Combination Sum
+74. Candy Distribution
     
-- Combination Sum II
+75. Partition Labels
     
-- Word Search
-    
-- Sudoku Solver
-    
-- Generate Parentheses
-    
-- Palindrome Partitioning
-    
-- Restore IP Addresses
+76. Minimum Number of Arrows to Burst Balloons
     
 
 ---
 
-### **13. Dynamic Programming – 1D**
+## 🔹 Trees & Binary Search Trees
 
-- Climbing Stairs
+77. Maximum Depth of Binary Tree
     
-- House Robber
+78. Symmetric Tree
     
-- House Robber II
+79. Level Order Traversal
     
-- Longest Increasing Subsequence
+80. Serialize and Deserialize Binary Tree
     
-- Coin Change
+81. Lowest Common Ancestor (LCA)
     
-- Coin Change II
+82. Validate Binary Search Tree
     
-- Partition Equal Subset Sum
+83. Construct Binary Tree from Preorder & Inorder
     
-- Word Break
+84. Binary Tree Zigzag Traversal
     
-- Maximum Product Subarray
-    
-- Decode Ways
+85. Binary Tree Maximum Path Sum
     
 
 ---
 
-### **14. Dynamic Programming – 2D / Grid**
+## 🔹 Graphs
 
-- Unique Paths
+86. Clone Graph
     
-- Minimum Path Sum
+87. Number of Islands
     
-- Edit Distance
+88. Surrounded Regions
     
-- Interleaving String
+89. Course Schedule I & II (Topological Sort)
     
-- Dungeon Game
+90. Word Ladder
     
-- Maximal Square
+91. Minimum Spanning Tree (Kruskal / Prim)
     
-- Minimum Falling Path Sum
+92. Dijkstra’s Algorithm
     
-- Cherry Pickup
+93. Bellman-Ford
     
-- Regular Expression Matching
+94. Floyd-Warshall
     
-- Distinct Subsequences
-    
-
----
-
-### **15. Trees – Basics**
-
-- Maximum Depth of Binary Tree
-    
-- Diameter of Binary Tree
-    
-- Lowest Common Ancestor
-    
-- Invert Binary Tree
-    
-- Binary Tree Level Order Traversal
-    
-- Serialize and Deserialize Binary Tree
-    
-- Path Sum
-    
-- Sum of Left Leaves
-    
-- Balanced Binary Tree
-    
-- Binary Tree Zigzag Level Order Traversal
+95. Bipartite Graph Check
     
 
 ---
 
-### **16. Trees – BST**
+## 🔹 Heaps & Priority Queue
 
-- Validate Binary Search Tree
+96. Kth Largest Element in an Array
     
-- Kth Smallest in BST
+97. Top K Frequent Elements
     
-- Convert Sorted Array to BST
+98. Merge K Sorted Lists
     
-- Lowest Common Ancestor of BST
+99. Sliding Window Maximum (Heap approach)
     
-- Range Sum of BST
-    
-- Trim a Binary Search Tree
-    
-- Two Sum BST
-    
-- BST Iterator
-    
-- Recover Binary Search Tree
-    
-- Serialize and Deserialize BST
+100. Find Median from Data Stream
     
 
 ---
 
-### **17. Heaps / Priority Queue**
+## 🔹 Sorting & Searching
 
-- Kth Largest Element in an Array
+101. Binary Search Variants
     
-- Merge K Sorted Lists
+102. Search in Rotated Sorted Array
     
-- Top K Frequent Elements
+103. Find Peak Element
     
-- Find Median from Data Stream
+104. First and Last Position of Element in Sorted Array
     
-- Sliding Window Maximum
+105. Median of Two Sorted Arrays
     
-- Meeting Rooms II
+106. Quickselect (Kth largest/smallest)
     
-- Reorganize String
-    
-- Task Scheduler
-    
-- Minimum Cost to Connect Sticks
-    
-- IPO Problem (Maximize Capital)
+107. Merge Sort / Quick Sort implementations
     
 
 ---
 
-### **18. Graphs – Traversals**
+## 🔹 Bit Manipulation
 
-- Number of Islands
+108. Single Number I / II / III
     
-- Clone Graph
+109. Subsets using Bitmask
     
-- Graph Valid Tree
+110. Reverse Bits
     
-- BFS Traversal
+111. Number of 1 Bits (Hamming Weight)
     
-- DFS Traversal
+112. Counting Bits
     
-- Word Ladder
+113. Power of Two
     
-- Pacific Atlantic Water Flow
-    
-- Surrounded Regions
-    
-- Rotten Oranges
-    
-- Minimum Height Trees
-    
-
----
-
-### **19. Graphs – Shortest Path / Advanced**
-
-- Course Schedule (Topological Sort)
-    
-- Course Schedule II
-    
-- Minimum Spanning Tree (Kruskal / Prim)
-    
-- Dijkstra’s Algorithm (Shortest Path)
-    
-- Bellman-Ford
-    
-- Floyd-Warshall
-    
-- Union-Find (Connected Components)
-    
-- Accounts Merge
-    
-- Redundant Connection
-    
-- Word Ladder II
-    
-
----
-
-### **20. Bit Manipulation**
-
-- Single Number
-    
-- Single Number II
-    
-- Subsets using Bits
-    
-- Reverse Bits
-    
-- Number of 1 Bits (Hamming Weight)
-    
-- Counting Bits
-    
-- Power of Two
-    
-- Missing Number
-    
-- Sum of Two Integers (Without +)
-    
-- Maximum XOR of Two Numbers in an Array
+114. Maximum XOR of Two Numbers in Array
     
