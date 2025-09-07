@@ -4,51 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "1cf2024837be3f55",
+        "id": "43299341d91cec4c",
         "type": "tabs",
         "children": [
           {
-            "id": "c26b9e17099f2af2",
+            "id": "1fed1f041be88ec8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/System Design Track.md",
+                "file": "Java/Collections/Special Collections (Hierarchy).md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "System Design Track"
-            }
-          },
-          {
-            "id": "a0a3f09349d9dfc4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "254489ecd69a94be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Data"
+              "title": "Special Collections (Hierarchy)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5
+    "width": 275.5
   },
   "right": {
     "id": "85b5f453341ed8df",
@@ -196,42 +170,42 @@
   },
   "active": "750c7e3fd8704c02",
   "lastOpenFiles": [
-    "DSA/Must-know Classic Problems.md",
+    "Java/Others/System Design.md",
+    "Java/Others/Streams Questions and Answers.md",
+    "Java/Others/Serialization.md",
+    "Java/Others/Prevent an object from being garbage.md",
+    "Java/Others/Polymorphism Magic.md",
+    "Java/Others/Path.md",
+    "Java/Others/Path 1.md",
+    "Java/Others/Outer (top-level) class.md",
+    "Java/Others/Inheritance Magic.md",
+    "Java/Others/finalize().md",
+    "Java/Others/Design Patterns.md",
+    "Java/Others/Constructor Exception.md",
+    "Java/Others/Collections.md",
+    "Java/Others/Basic Tricks.md",
+    "Java/Others/AutoBoxing.md",
+    "Java/Others",
+    "Java/New folder",
+    "Java/Collections/Special Collections (Hierarchy).md",
+    "Java/Collections/Special Collections.md",
+    "Java/AutoBoxing.md",
+    "Java/Collections",
+    "Java/System Design.md",
+    "Java/Path 1.md",
+    "Java/Path.md",
     "DSA/Dynamic Programming Problems Categorized.md",
+    "DSA/Must-know Classic Problems.md",
+    "Data.md",
     "Java/Streams/Streams Answers.md",
     "System Design/System Design Track.md",
-    "Data.md",
     "Untitled",
-    "SD Path.md",
-    "The Path.md",
     "DSA",
-    "Java/Streams/Streams Questions.md",
     "Java/Streams",
-    "Java/Collections.md",
-    "Java/Multithreading/ExecutorService/Chapters/Chapter 1 - Introduction to ExecutorService.md",
-    "Java/Multithreading/ExecutorService/The ExecutorService Handbook.md",
-    "Java/Multithreading/ExecutorService/Chapters/Chapter 2 - The Executor Framework Architecture.md",
-    "Java/Multithreading/ExecutorService/Chapters/Chapter 5 - Submitting Tasks to ExecutorService.md",
-    "Java/Multithreading/ExecutorService/Chapters/Chapter 4 - Thread Pools in Depth.md",
-    "Java/Multithreading/ExecutorService/Chapters/Chapter 3 - Types of Executor Services in Java.md",
-    "Java/Multithreading/ExecutorService/Chapters/Chapter 10 - Best Practices, Pitfalls, and Advanced Tips with ExecutorService.md",
-    "Java/Multithreading/ExecutorService/Chapters/Chapter 9 - Advanced ExecutorService Concepts.md",
-    "Java/Multithreading/ExecutorService/Chapters/Chapter 8 - Thread Safety, Synchronization, and ExecutorService.md",
-    "Java/Multithreading/ExecutorService/Chapters/Chapter 7 - ScheduledExecutorService.md",
-    "Java/Multithreading/ExecutorService/Chapters/Chapter 6 - Task Submission & Result Handling.md",
     "Java/Multithreading/ExecutorService/Chapters",
-    "Java/Multithreading/ExecutorService.md",
     "Java/Multithreading/ExecutorService",
     "Java/Multithreading",
-    "System Design/Chapters/Chapter 2 - Networking & APIs.md",
-    "System Design/Chapters/Chapter 9 - Deployment & Observability.md",
-    "System Design/Chapters/Chapter 6 - Messaging & Asynchronous Processing.md",
-    "System Design/Chapters/Chapter 7 – Architecture Patterns.md",
-    "System Design/Chapters/Chapter 12 – Categorized System Design Questions.md",
     "System Design/Chapters",
-    "ZStash",
-    "System Design",
-    "Untitled.canvas",
-    "ElasticSearch/Answers"
+    "Untitled.canvas"
   ]
 }

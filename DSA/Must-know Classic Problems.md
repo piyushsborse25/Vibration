@@ -14,7 +14,7 @@
     
 7. [ ] Spiral Matrix
     
-8. [ ] Trapping Rain Water
+8. [x] Trapping Rain Water
     
 9. [x] Product of Array Except Self
     
@@ -33,11 +33,11 @@
 
 ## 🔹 Strings
 
-15. [ ] Longest Substring Without Repeating Characters
+15. [x] Longest Substring Without Repeating Characters
     
-16. [ ] Longest Palindromic Substring
+16. [x] Longest Palindromic Substring
     
-17. [ ] Longest Common Prefix
+17. [x] Longest Common Prefix
     
 18. [ ] Valid Anagram
     
@@ -60,7 +60,7 @@
 
 25. [ ] Maximum Average Subarray
     
-26. [ ] Subarray Sum Equals K
+26. [x] Subarray Sum Equals K
     
 27. [ ] Minimum Size Subarray Sum
     
@@ -111,7 +111,7 @@
 
 ## 🔹 Hashing
 
-44. [ ] Two Sum (HashMap approach)
+44. [x] Two Sum (HashMap approach)
     
 45. [ ] Longest Consecutive Sequence
     
@@ -126,7 +126,7 @@
 
 ## 🔹 Recursion & Backtracking
 
-49. [ ] Permutations
+49. [x] Permutations
     
 50. [ ] Permutations with Duplicates
     
