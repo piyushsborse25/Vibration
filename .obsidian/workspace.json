@@ -26,15 +26,10 @@
             "id": "a0a3f09349d9dfc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Must-know Classic Problems.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Must-know Classic Problems"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -43,17 +38,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Streams/Streams Answers.md",
+                "file": "Data.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Streams Answers"
+              "title": "Data"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,16 +194,16 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a0a3f09349d9dfc4",
+  "active": "750c7e3fd8704c02",
   "lastOpenFiles": [
-    "Untitled.md",
-    "System Design/System Design Track.md",
-    "Untitled",
-    "SD Path.md",
-    "The Path.md",
     "DSA/Must-know Classic Problems.md",
     "DSA/Dynamic Programming Problems Categorized.md",
     "Java/Streams/Streams Answers.md",
+    "System Design/System Design Track.md",
+    "Data.md",
+    "Untitled",
+    "SD Path.md",
+    "The Path.md",
     "DSA",
     "Java/Streams/Streams Questions.md",
     "Java/Streams",
