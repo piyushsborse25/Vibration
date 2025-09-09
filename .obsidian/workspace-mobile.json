@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Must-know Classic Problems.md",
+                "file": "DSA/Dynamic Programming Problems Categorized.md",
                 "mode": "preview",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Must-know Classic Problems"
+              "title": "Dynamic Programming Problems Categorized"
             }
           }
         ]
@@ -105,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DSA/Must-know Classic Problems.md",
+            "file": "Java/Others/Polymorphism Magic.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,11 +156,24 @@
   },
   "active": "9485ebdaf4b0bc3a",
   "lastOpenFiles": [
+    "Java/Others/Untitled.md",
+    "DSA/Dynamic Programming Problems Categorized.md",
+    "DSA/Must-know Classic Problems.md",
+    "Java/Others/AutoBoxing.md",
+    "The Path.md",
+    "Java/Others/Polymorphism Magic.md",
+    "Java/Others/Prevent an object from being garbage.md",
+    "Java/Others/Outer (top-level) class.md",
+    "Java/Others/finalize().md",
+    "Java/Others/Constructor Exception.md",
+    "Java/Others/Basic Tricks.md",
+    "Data.md",
+    "System Design/Chapters/Chapter 12 – Categorized System Design Questions.md",
+    "Spring Boot/Annotations.md",
+    "Java/Collections/Special Collections.md",
     "Spring Boot/Spring PagingAndSortingRepository.md",
     "Spring Boot/Two Beans.md",
     "Java/Streams/Streams Answers.md",
-    "DSA/Must-know Classic Problems.md",
-    "DSA/Dynamic Programming Problems Categorized.md",
     "Java/Multithreading/ExecutorService/The ExecutorService Handbook.md",
     "Java/Multithreading/ExecutorService/Chapters/Chapter 4 - Thread Pools in Depth.md",
     "Java/Multithreading/ExecutorService/Chapters/Chapter 3 - Types of Executor Services in Java.md",
@@ -179,19 +183,6 @@
     "Java/Multithreading/ExecutorService/Chapters/Chapter 5 - Submitting Tasks to ExecutorService.md",
     "Java/Streams.md",
     "Java/Collections.md",
-    "System Design/System Design Track.md",
-    "System Design/Chapters/Chapter 12 – Categorized System Design Questions.md",
-    "System Design/Track (3 Years Java Developer).md",
-    "System Design/Categories.md",
-    "System Design/Chapters/Chapter 12 – System Design Interview Questions.md",
-    "The Path.md",
-    "System Design/Chapters/Chapter 1 - Fundamentals of System Design.md",
-    "System Design/Chapters/Chapter 11 - Advanced (Good to Mention).md",
-    "System Design/Chapters/Chapter 10 - Security in System Design.md",
-    "System Design/Chapters/Chapter 9 - Deployment & Observability.md",
-    "System Design/Chapters/Chapter 8 - Scalability & Resilience.md",
-    "System Design/Chapters/Chapter 7 – Architecture Patterns.md",
-    "System Design/Chapters/Chapter 6 - Messaging & Asynchronous Processing.md",
     "Untitled",
     "git-sync.bat",
     "got-sync.bat",
