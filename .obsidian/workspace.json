@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Collections/Special Collections (Hierarchy).md",
+                "file": "DSA/Dynamic Programming Problems Categorized.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Special Collections (Hierarchy)"
+              "title": "Dynamic Programming Problems Categorized"
             }
           }
         ]
@@ -168,8 +168,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "750c7e3fd8704c02",
+  "active": "1fed1f041be88ec8",
   "lastOpenFiles": [
+    "DSA/Must-know Classic Problems.md",
+    "Java/Collections/Special Collections (Hierarchy).md",
+    "Java/AutoBoxing.md",
     "Java/Others/System Design.md",
     "Java/Others/Streams Questions and Answers.md",
     "Java/Others/Serialization.md",
@@ -187,15 +190,12 @@
     "Java/Others/AutoBoxing.md",
     "Java/Others",
     "Java/New folder",
-    "Java/Collections/Special Collections (Hierarchy).md",
     "Java/Collections/Special Collections.md",
-    "Java/AutoBoxing.md",
     "Java/Collections",
     "Java/System Design.md",
     "Java/Path 1.md",
     "Java/Path.md",
     "DSA/Dynamic Programming Problems Categorized.md",
-    "DSA/Must-know Classic Problems.md",
     "Data.md",
     "Java/Streams/Streams Answers.md",
     "System Design/System Design Track.md",
