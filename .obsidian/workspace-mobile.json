@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Dynamic Programming Problems Categorized.md",
+                "file": "System Design/System Design Track.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic Programming Problems Categorized"
+              "title": "System Design Track"
             }
           }
         ]
@@ -156,8 +156,10 @@
   },
   "active": "9485ebdaf4b0bc3a",
   "lastOpenFiles": [
-    "Java/Others/Untitled.md",
+    "System Design/Chapters/Chapter 12 – Categorized System Design Questions.md",
+    "System Design/System Design Track.md",
     "DSA/Dynamic Programming Problems Categorized.md",
+    "Java/Others/Untitled.md",
     "DSA/Must-know Classic Problems.md",
     "Java/Others/AutoBoxing.md",
     "The Path.md",
@@ -168,7 +170,6 @@
     "Java/Others/Constructor Exception.md",
     "Java/Others/Basic Tricks.md",
     "Data.md",
-    "System Design/Chapters/Chapter 12 – Categorized System Design Questions.md",
     "Spring Boot/Annotations.md",
     "Java/Collections/Special Collections.md",
     "Spring Boot/Spring PagingAndSortingRepository.md",
@@ -182,7 +183,6 @@
     "Untitled.base",
     "Java/Multithreading/ExecutorService/Chapters/Chapter 5 - Submitting Tasks to ExecutorService.md",
     "Java/Streams.md",
-    "Java/Collections.md",
     "Untitled",
     "git-sync.bat",
     "got-sync.bat",
