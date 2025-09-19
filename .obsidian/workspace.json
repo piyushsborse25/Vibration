@@ -168,8 +168,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1fed1f041be88ec8",
+  "active": "750c7e3fd8704c02",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Angular/OnPush Change Detection.md",
     "Angular/lifecycle hooks.md",
     "Angular/Extra questions.md",
@@ -210,12 +211,44 @@
     "Angular/md_files",
     "Angular/Angular MD Files.zip",
     "Angular",
+=======
+    "DSA/Dynamic Programming Problems Categorized.md",
+    "Java/Others/Untitled.md",
+    "DSA/Must-know Classic Problems.md",
+    "Java/Collections/Special Collections (Hierarchy).md",
+    "Java/AutoBoxing.md",
+    "Java/Others/System Design.md",
+    "Java/Others/Streams Questions and Answers.md",
+    "Java/Others/Serialization.md",
+    "Java/Others/Prevent an object from being garbage.md",
+    "Java/Others/Polymorphism Magic.md",
+    "Java/Others/Path.md",
+    "Java/Others/Path 1.md",
+    "Java/Others/Outer (top-level) class.md",
+    "Java/Others/Inheritance Magic.md",
+    "Java/Others/finalize().md",
+    "Java/Others/Design Patterns.md",
+    "Java/Others/Constructor Exception.md",
+    "Java/Others/Collections.md",
+    "Java/Others/Basic Tricks.md",
+    "Java/Others/AutoBoxing.md",
+>>>>>>> 84aea45c6f982a9e6402f70c5af939e5ba13159c
     "Java/Others",
     "Java/New folder",
+    "Java/Collections/Special Collections.md",
     "Java/Collections",
+    "Java/System Design.md",
+    "Java/Path 1.md",
+    "Java/Path.md",
+    "Data.md",
+    "Java/Streams/Streams Answers.md",
     "Untitled",
     "DSA",
     "Java/Streams",
+    "Java/Multithreading/ExecutorService/Chapters",
+    "Java/Multithreading/ExecutorService",
+    "Java/Multithreading",
+    "System Design/Chapters",
     "Untitled.canvas"
   ]
 }
