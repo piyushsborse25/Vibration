@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Multithreading/ExecutorService/Chapters/Chapter 10 - Best Practices, Pitfalls, and Advanced Tips with ExecutorService.md",
-                "mode": "preview",
+                "file": "Payshare/Narrative.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 10 - Best Practices, Pitfalls, and Advanced Tips with ExecutorService"
+              "title": "Narrative"
             }
           }
         ]
@@ -156,6 +156,9 @@
   },
   "active": "9485ebdaf4b0bc3a",
   "lastOpenFiles": [
+    "Payshare/Thought Process.md",
+    "Payshare/Narrative.md",
+    "Java/Multithreading/ExecutorService/Chapters/Chapter 10 - Best Practices, Pitfalls, and Advanced Tips with ExecutorService.md",
     "Java/Multithreading/ExecutorService/Chapters/Chapter 4 - Thread Pools in Depth.md",
     "Java/Multithreading/ExecutorService/Chapters/Chapter 3 - Types of Executor Services in Java.md",
     "Java/Collections/Special Collections (Hierarchy).md",
@@ -179,9 +182,6 @@
     "Angular/Angular tsconfig Properties.md",
     "Angular/Angular Project Structure and Files.md",
     "Angular/6. Routing & Single Page Applications (SPA).md",
-    "Angular/5. Data Binding & Directives.md",
-    "Angular/3. Angular CLI & Build Process.md",
-    "Angular/2. TypeScript & Essential Files.md",
     "Angular",
     "Untitled.base",
     "Untitled",
