@@ -1,19 +1,19 @@
 ### **1. Thread Creation**
 
-- Write code to create a thread by **extending Thread**.
+- [[Create a thread by extending Thread]]
     
-- Write code to create a thread by **implementing Runnable**.
+- [[Create a thread by implementing Runnable]]
     
-- Write code to create a thread using **Callable and Future** and get the return value.
+- [[Create a thread using Callable and Future and get the return value]]
     
 
 ---
 
 ### **2. Thread Lifecycle**
 
-- Write code to demonstrate **thread states**: NEW, RUNNABLE, WAITING, BLOCKED, TERMINATED.
+- [[Demonstrate thread states - NEW, RUNNABLE, WAITING, BLOCKED, TERMINATED]]
     
-- Write code to demonstrate **sleep()**, **yield()**, and **join()** effects on thread execution.
+- [[Code to demonstrate sleep(), yield(), and join() effects on thread execution]]
     
 
 ---
