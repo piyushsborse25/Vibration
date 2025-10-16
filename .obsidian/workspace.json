@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6e64ea2b49fe1bc8",
+        "id": "ffe6be8db48d3303",
         "type": "tabs",
         "children": [
           {
-            "id": "862d0cef991e2dc7",
+            "id": "74bb5370451f6547",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Payshare/Thought Process.md",
-                "mode": "source",
+                "file": "System Design/Design Patterns/Structural Design Patterns.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Thought Process"
+              "title": "Structural Design Patterns"
             }
           }
         ]
@@ -42,7 +42,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Payshare/Thought Process.md",
+                "file": "Payshare/Narrative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Thought Process"
+              "title": "Backlinks for Narrative"
             }
           },
           {
@@ -97,12 +97,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Payshare/Thought Process.md",
+                "file": "Payshare/Narrative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Thought Process"
+              "title": "Outgoing links from Narrative"
             }
           },
           {
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Payshare/Thought Process.md",
+                "file": "Payshare/Narrative.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Thought Process"
+              "title": "Outline of Narrative"
             }
           }
         ]
@@ -168,8 +168,26 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "862d0cef991e2dc7",
+  "active": "74bb5370451f6547",
   "lastOpenFiles": [
+    "Angular/Extra questions.md",
+    "System Design/Design Patterns/Creational Design Patterns.md",
+    "System Design/Design Patterns/Behavioral Design Patterns.md",
+    "System Design/Chapters/Design Patterns in Services.md",
+    "System Design/Design Patterns/Structural Design Patterns.md",
+    "System Design/System Design Track.md",
+    "System Design/Untitled.canvas",
+    "System Design/Design Patterns",
+    "Java/Comprehensive Interview Preparation Track.md",
+    "Java/Questions/Tricky Java Questions.md",
+    "Java/Questions/Java Questions.md",
+    "Java/Collections/Special Collections (Hierarchy).md",
+    "Java/Collections/Special Collections.md",
+    "Java/Others/AutoBoxing.md",
+    "Java/Questions",
+    "The Path.md",
+    "SD Path.md",
+    "Data.md",
     "Payshare/Narrative.md",
     "Payshare/Thought Process.md",
     "Payshare"
