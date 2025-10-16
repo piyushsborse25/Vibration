@@ -20,15 +20,15 @@
 
 ### **3. Synchronization**
 
-- Write code to **synchronize a method** to avoid race conditions.
+- [[Code to synchronize a method to avoid race conditions]]
     
-- Write code to **synchronize a block** of code instead of the whole method.
+- [[Code to synchronize a block of code instead of the whole method]]
     
-- Write code to demonstrate **deadlock** between two threads.
+- [[Code to demonstrate deadlock between two threads]]
     
-- Write code to demonstrate **livelock**.
+- [[Code to demonstrate livelock]]
     
-- Write code to show **thread starvation**.
+- [[Code to show thread starvation]]
     
 
 ---
