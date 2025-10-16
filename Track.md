@@ -1,4 +1,4 @@
-## ✅ **1. [[System Design Track]]  & Distributed Systems**
+## ✅ **1. [[System Design]]  & Distributed Systems**
 
 ### **Consistency & Reliability**
 
@@ -43,7 +43,7 @@
 - **ExecutorService** – Thread pool management
 - Concurrency Utilities – `BlockingQueue`, `CopyOnWriteArrayList`, etc.
 
-### **Java [[Special Collections (Hierarchy)]]**
+### **Java Special Collections (Hierarchy)**
 
 - Collections Hierarchy – List, Set, Map
 - Null behavior in collections
