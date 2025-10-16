@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ffe6be8db48d3303",
+        "id": "db46cae5dab8c8ca",
         "type": "tabs",
         "children": [
           {
-            "id": "74bb5370451f6547",
+            "id": "b8ea1d29f0d41215",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Track.md",
+                "file": "Java/Multithreading/Multithreading.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Track"
+              "title": "Multithreading"
             }
           }
         ]
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 405.5
   },
   "right": {
     "id": "a2aa2e7bd80a04fa",
@@ -168,35 +168,39 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5ae1239306496b5e",
+  "active": "b8ea1d29f0d41215",
   "lastOpenFiles": [
-    "Data.md",
+    "Untitled.canvas",
+    "Java/Multithreading/ExecutorService/Chapters/Chapter 1 - Introduction to ExecutorService.md",
+    "Java/Multithreading/Multithreading.md",
+    "Java/Multithreading/Practical Multi-Threading.md",
+    "Java/Multithreading/Practical/3. Synchronization/Code to demonstrate livelock.md",
+    "Java/Multithreading/Practical/3. Synchronization/Code to show thread starvation.md",
+    "Java/Multithreading/Practical/3. Synchronization/Code to demonstrate deadlock between two threads.md",
+    "Java/Multithreading/Practical/1. Thread Creation/Create a thread by implementing Runnable.md",
+    "Java/Multithreading/Practical/1. Thread Creation/Create a thread by extending Thread.md",
+    "Java/Multithreading/Practical/3. Synchronization/Code to synchronize a block of code instead of the whole method.md",
+    "Java/Multithreading/Why Runnable exists.md",
+    "Java/Multithreading/Practical/3. Synchronization/Code to synchronize a method to avoid race conditions.md",
+    "Java/Multithreading/Practical/3. Synchronization",
+    "Java/Multithreading/Practical/2. Thread Lifecycle/Code to demonstrate sleep(), yield(), and join() effects on thread execution.md",
+    "Java/Multithreading/Practical/2. Thread Lifecycle/Demonstrate thread states - NEW, RUNNABLE, WAITING, BLOCKED, TERMINATED.md",
+    "System Design/System Design.md",
     "Track.md",
+    "Java/Collections/Special Collections (Hierarchy).md",
+    "Java/Multithreading/Practical/1. Thread Creation/Create a thread using Callable and Future and get the return value.md",
+    "Java/Multithreading/Practical/2. Thread Lifecycle",
+    "Java/Multithreading/Practical/1. Thread Creation",
+    "Java/Multithreading/Practical",
+    "Data.md",
+    "ElasticSearch/Elasticsearch.md",
+    "ElasticSearch/50 Elasticsearch interview questions.md",
+    "Java/Multithreading/ExecutorService/The ExecutorService Handbook.md",
+    "Java/Comprehensive Interview Preparation Track.md",
     "SD Path.md",
     "Java/Corners/AutoBoxing.md",
     "Java/Corners/Polymorphism Magic.md",
-    "Java/Corners/Prevent an object from GC.md",
-    "Java/Corners/Outer (top-level) class.md",
-    "Java/Corners/Inheritance Magic.md",
-    "Java/Corners/finalize().md",
-    "Java/Corners/Constructor Exception.md",
-    "Java/Corners/Basic Tricks.md",
-    "Java/Multithreading/ExecutorService/The ExecutorService Handbook.md",
-    "Java/Others/System Design.md",
-    "Java/Others/Streams Questions and Answers.md",
-    "Java/Corners/Serialization.md",
-    "Java/Others/Path 1.md",
-    "Java/Others/Path.md",
-    "Java/Others/Design Patterns.md",
-    "Java/Others/Collections.md",
-    "Java/Questions/Java Questions.md",
     "Java/Corners",
-    "System Design/Design Patterns/Structural Design Patterns.md",
-    "Angular/Extra questions.md",
-    "System Design/Design Patterns/Creational Design Patterns.md",
-    "System Design/Design Patterns/Behavioral Design Patterns.md",
-    "System Design/Chapters/Design Patterns in Services.md",
-    "System Design/System Design Track.md",
     "System Design/Untitled.canvas",
     "System Design/Design Patterns",
     "Java/Questions",
