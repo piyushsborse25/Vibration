@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Multithreading/Practical/3. Synchronization/Code to demonstrate livelock.md",
-                "mode": "preview",
+                "file": "Java/Multithreading/Practical/5. Concurrency Utilities/Code using AtomicInteger for thread-safe counter increments.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Code to demonstrate livelock"
+              "title": "Code using AtomicInteger for thread-safe counter increments"
             }
           }
         ]
@@ -170,40 +170,43 @@
   },
   "active": "b8ea1d29f0d41215",
   "lastOpenFiles": [
-    "Java/Multithreading/Practical/3. Synchronization/Code to demonstrate deadlock between two threads.md",
-    "Java/Multithreading/Why Runnable exists.md",
+    "Java/Multithreading/Practical/5. Concurrency Utilities/Code using BlockingQueue to implement producer-consumer.md",
+    "Java/Multithreading/Practical Multi-Threading.md",
+    "Java/Multithreading/Practical/5. Concurrency Utilities/Code using ConcurrentHashMap to safely update a map from multiple threads.md",
+    "Java/Multithreading/Practical/5. Concurrency Utilities/Code using CountDownLatch to wait for multiple threads to complete.md",
     "Java/Multithreading/Multithreading.md",
+    "Java/Comprehensive Interview Preparation Track.md",
+    "Java/Multithreading/Practical/5. Concurrency Utilities/Code using AtomicInteger for thread-safe counter increments.md",
+    "Java/Multithreading/Practical/5. Concurrency Utilities/Code using CyclicBarrier to make threads wait for each other.md",
+    "Java/Multithreading/Practical/5. Concurrency Utilities/Code using ExecutorService to run multiple threads.md",
+    "Java/Multithreading/Practical/5. Concurrency Utilities/Code using ScheduledExecutorService to run tasks at fixed intervals.md",
+    "Java/Multithreading/Practical/5. Concurrency Utilities/Code using Semaphore to control access to a shared resource.md",
+    "Java/Multithreading/Practical/4. Inter-thread Communication/Code using wait() and notify() to implement producer-consumer problem.md",
+    "Java/Multithreading/Practical/5. Concurrency Utilities",
+    "Java/Multithreading/Practical/4. Inter-thread Communication/Code to demonstrate ThreadLocal usage..md",
+    "Java/Multithreading/Practical/4. Inter-thread Communication/Code to demonstrate notify() vs notifyAll().md",
+    "Java/Multithreading/Practical/3. Synchronization/Code to synchronize a method to avoid race conditions.md",
+    "Java/Multithreading/Practical/4. Inter-thread Communication",
+    "Java/Multithreading/Corners/Why Runnable exists.md",
+    "Java/Multithreading/Practical/3. Synchronization/Code to demonstrate livelock.md",
+    "Java/Multithreading/Corners",
+    "Java/Multithreading/Practical/3. Synchronization/Code to demonstrate deadlock between two threads.md",
     "Untitled.canvas",
     "Java/Multithreading/ExecutorService/Chapters/Chapter 1 - Introduction to ExecutorService.md",
-    "Java/Multithreading/Practical Multi-Threading.md",
-    "Java/Multithreading/Practical/3. Synchronization/Code to demonstrate livelock.md",
     "Java/Multithreading/Practical/3. Synchronization/Code to show thread starvation.md",
     "Java/Multithreading/Practical/1. Thread Creation/Create a thread by implementing Runnable.md",
     "Java/Multithreading/Practical/1. Thread Creation/Create a thread by extending Thread.md",
     "Java/Multithreading/Practical/3. Synchronization/Code to synchronize a block of code instead of the whole method.md",
-    "Java/Multithreading/Practical/3. Synchronization/Code to synchronize a method to avoid race conditions.md",
     "Java/Multithreading/Practical/3. Synchronization",
     "Java/Multithreading/Practical/2. Thread Lifecycle/Code to demonstrate sleep(), yield(), and join() effects on thread execution.md",
     "Java/Multithreading/Practical/2. Thread Lifecycle/Demonstrate thread states - NEW, RUNNABLE, WAITING, BLOCKED, TERMINATED.md",
     "System Design/System Design.md",
-    "Track.md",
-    "Java/Collections/Special Collections (Hierarchy).md",
-    "Java/Multithreading/Practical/1. Thread Creation/Create a thread using Callable and Future and get the return value.md",
     "Java/Multithreading/Practical/2. Thread Lifecycle",
     "Java/Multithreading/Practical/1. Thread Creation",
     "Java/Multithreading/Practical",
-    "Data.md",
-    "ElasticSearch/Elasticsearch.md",
-    "ElasticSearch/50 Elasticsearch interview questions.md",
-    "Java/Multithreading/ExecutorService/The ExecutorService Handbook.md",
-    "Java/Comprehensive Interview Preparation Track.md",
-    "SD Path.md",
-    "Java/Corners/AutoBoxing.md",
-    "Java/Corners/Polymorphism Magic.md",
     "Java/Corners",
     "System Design/Untitled.canvas",
     "System Design/Design Patterns",
-    "Java/Questions",
-    "Payshare"
+    "Java/Questions"
   ]
 }

@@ -35,32 +35,32 @@
 
 ### **4. Inter-thread Communication**
 
-- Write code using **wait() and notify()** to implement producer-consumer problem.
+- [[Code using wait() and notify() to implement producer-consumer problem]]
     
-- Write code to demonstrate **notify() vs notifyAll()**.
+- [[Code to demonstrate notify() vs notifyAll()]]
     
-- Write code to demonstrate **ThreadLocal** usage.
+- [[Code to demonstrate ThreadLocal usage.]]
     
 
 ---
 
 ### **5. Concurrency Utilities**
 
-- Write code using **ExecutorService** to run multiple threads.
+- [[Code using ExecutorService to run multiple threads]]
     
-- Write code using **ScheduledExecutorService** to run tasks at fixed intervals.
+- [[Code using ScheduledExecutorService to run tasks at fixed intervals]]
     
-- Write code using **CountDownLatch** to wait for multiple threads to complete.
+- [[Code using CountDownLatch to wait for multiple threads to complete]]
     
-- Write code using **CyclicBarrier** to make threads wait for each other.
+- [[Code using CyclicBarrier to make threads wait for each other]]
     
-- Write code using **Semaphore** to control access to a shared resource.
+- [[Code using Semaphore to control access to a shared resource]]
     
-- Write code using **BlockingQueue** to implement producer-consumer.
+- [[Code using BlockingQueue to implement producer-consumer]]
     
-- Write code using **ConcurrentHashMap** to safely update a map from multiple threads.
+- [[Code using ConcurrentHashMap to safely update a map from multiple threads]]
     
-- Write code using **AtomicInteger** for thread-safe counter increments.
+- [[Code using AtomicInteger for thread-safe counter increments]]
     
 
 ---
