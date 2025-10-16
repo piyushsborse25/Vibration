@@ -168,12 +168,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b8ea1d29f0d41215",
+  "active": "5ae1239306496b5e",
   "lastOpenFiles": [
     "Java/Multithreading/Practical/6. Advanced/Code to demonstrate race condition without synchronization.md",
     "Java/Multithreading/Practical/6. Advanced/Code to demonstrate deadlock prevention using lock ordering.md",
     "Java/Multithreading/Practical/6. Advanced/Code to demonstrate reentrant lock (ReentrantLock) with tryLock().md",
-    "Java/Multithreading/Practical Multi-Threading.md",
+    "Java/Multithreading/Practical/Practical Multi-Threading.md",
     "Java/Multithreading/Practical/6. Advanced/Code to demonstrate volatile variable behavior in threads.md",
     "Java/Multithreading/Practical/6. Advanced/Untitled.md",
     "Java/Multithreading/Practical/4. Inter-thread Communication/Code using wait() and notify() to implement producer-consumer problem.md",
