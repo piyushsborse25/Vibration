@@ -156,6 +156,8 @@
   },
   "active": "9485ebdaf4b0bc3a",
   "lastOpenFiles": [
+    "Java/Multithreading/Practical/5. Concurrency Utilities/Code using CountDownLatch to wait for multiple threads to complete.md",
+    "Java/Streams/Streams Questions.md",
     "Java/Streams/Streams Answers.md",
     "Java/Questions/Tricky Java Questions.md",
     "Java/Questions/Java Questions.md",
@@ -180,8 +182,6 @@
     "Angular/OnPush Change Detection.md",
     "Angular/lifecycle hooks.md",
     "Angular/Directives.md",
-    "Angular/Decorators.md",
-    "Angular/Data Binding Types.md",
     "Angular",
     "Untitled.base",
     "Untitled",
