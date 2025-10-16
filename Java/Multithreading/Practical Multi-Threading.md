@@ -67,11 +67,11 @@
 
 ### **6. Advanced/Tricky**
 
-- Write code to demonstrate **volatile variable** behavior in threads.
+- [[Code to demonstrate volatile variable behavior in threads]]
     
-- Write code to demonstrate **race condition** without synchronization.
+- [[Code to demonstrate race condition without synchronization]]
     
-- Write code to demonstrate **reentrant lock (`ReentrantLock`)** with tryLock().
+- [[Code to demonstrate reentrant lock (ReentrantLock) with tryLock()]]
     
-- Write code to demonstrate **deadlock prevention** using lock ordering.
+- [[Code to demonstrate deadlock prevention using lock ordering]]
     
