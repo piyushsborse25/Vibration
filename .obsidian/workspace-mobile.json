@@ -154,8 +154,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "9485ebdaf4b0bc3a",
+  "active": "a04b3f0e0b0191b6",
   "lastOpenFiles": [
+    "Java/Multithreading/Practical/6. Advanced/Code to demonstrate volatile variable behavior in threads.md",
+    "Java/Multithreading/Practical/6. Advanced/Code to demonstrate reentrant lock (ReentrantLock) with tryLock().md",
+    "Java/Multithreading/Practical/6. Advanced/Code to demonstrate race condition without synchronization.md",
+    "Java/Multithreading/Practical/6. Advanced/Code to demonstrate deadlock prevention using lock ordering.md",
+    "Java/Multithreading/Practical/6. Advanced",
     "Java/Multithreading/Practical/5. Concurrency Utilities/Code using CountDownLatch to wait for multiple threads to complete.md",
     "Java/Streams/Streams Questions.md",
     "Java/Streams/Streams Answers.md",
@@ -178,10 +183,6 @@
     "Angular/4. Components, Templates & Decorators.md",
     "System Design/System Design Track.md",
     "Angular/Validation techniques.md",
-    "Angular/Typescript Interview Questions.md",
-    "Angular/OnPush Change Detection.md",
-    "Angular/lifecycle hooks.md",
-    "Angular/Directives.md",
     "Angular",
     "Untitled.base",
     "Untitled",
