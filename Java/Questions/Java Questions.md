@@ -1,10 +1,10 @@
-### **I. Java IT?**
+### **I. Java**
 1. What are memory storages available with JVM?
 2. What is a ClassLoader?Fundamentals & Basics**
 3. Is Java Platform Independent? If yes, how?
 4. What are the top Java Features?
 5. What is JVM?
-6. What is J
+6. What is JDK?
 7. What are the differences between JVM, JRE, and JDK?
 8. What are the differences between Java and C++?
 9. Explain `public static void main(String args[])` in Java.
