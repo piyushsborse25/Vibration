@@ -1,4 +1,4 @@
-## I. Microservices Fundamentals
+## [[I. Microservices Fundamentals]]
 
 1. What are Microservices?
     
@@ -31,7 +31,7 @@
 
 ---
 
-## II. Security, Authentication & Authorization
+## [[II. Security, Authentication & Authorization]]
 
 15. What is OAuth and why is it used?
     
@@ -52,7 +52,7 @@
 
 ---
 
-## III. Design & Architecture
+## [[III. Design & Architecture]]
 
 23. What design patterns have you used while implementing Microservices?
     
@@ -83,7 +83,7 @@
 
 ---
 
-## IV. Data Management & Consistency
+## [[IV. Data Management & Consistency]]
 
 36. How would you implement data consistency across Microservices?
     
@@ -112,7 +112,7 @@
 
 ---
 
-## V. Fault Tolerance & Resilience
+## [[V. Fault Tolerance & Resilience]]
 
 48. How do you handle partial failures in Microservices?
     
@@ -131,7 +131,7 @@
 
 ---
 
-## VI. Monitoring, Logging & Observability
+## [[VI. Monitoring, Logging & Observability]]
 
 55. How would you monitor Microservices?
     
@@ -154,7 +154,7 @@
 
 ---
 
-## VII. Deployment, Scaling & Cloud
+## [[VII. Deployment, Scaling & Cloud]]
 
 64. What is the use of Kubernetes?
     
@@ -165,7 +165,7 @@
 
 ---
 
-## VIII. Messaging, Queues & Event Handling
+## [[VIII. Messaging, Queues & Event Handling]]
 
 67. What is Kafka?
     
@@ -182,7 +182,7 @@
 
 ---
 
-## IX. Testing & Reliability
+## [[IX. Testing & Reliability]]
 
 73. How do you test Microservices?
     
@@ -191,7 +191,7 @@
 
 ---
 
-## X. Scenario-Based & Real-World Questions
+## [[X. Scenario-Based & Real-World Questions]]
 
 75. How was the authenticator integrated in your project?
     
@@ -208,7 +208,7 @@
 
 ---
 
-## XI. Miscellaneous / Functional
+## [[XI. Miscellaneous & Functional]]
 
 81. What are lambda functions?
     
