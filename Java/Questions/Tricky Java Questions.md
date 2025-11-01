@@ -14,7 +14,7 @@
 13. What is the difference between "composition over inheritance"? Why is it preferred?
 14. Can you create an instance of an abstract class in Java? If yes, how?
 
-### **II. Exception Handling**
+### **[[II. Exception Handling]]**
 15. What happens if a `finally` block contains a `return` statement? Does it override exceptions thrown in the `try` block?
 16. Explain the difference between `throw` and `throws`. Can you use `throws` with a `RuntimeException`?
 17. Can you catch an exception thrown in the `static` block of a class? Why or why not?
@@ -30,7 +30,7 @@
 27. Can you define an exception class without extending `Throwable`? What happens?
 28. What happens if you catch `Error` or `Throwable` instead of specific exceptions?
 
-### **III. Memory Management & JVM Internals**
+### **[[III. Memory Management & JVM Internals]]**
 29. What is the difference between stack memory and heap memory? Where are `static` variables stored?
 30. Explain the lifecycle of an object in the JVM from creation to garbage collection.
 31. What is the purpose of the `finalize()` method? Why is it deprecated in Java?
@@ -47,7 +47,7 @@
 42. What is the role of the `Code Cache` area in the JVM?
 43. Explain how method inlining works in the JVM and how it improves performance.
 
-### **IV. Multithreading & Concurrency**
+### **[[IV. Multithreading & Concurrency]]**
 44. What is the difference between a `synchronized` block and a `synchronized` method? Which is more efficient?
 45. How does the `volatile` keyword ensure thread safety? Does it guarantee atomicity?
 46. Explain the difference between `wait()`, `notify()`, and `notifyAll()`. Why are they part of `Object` and not `Thread`?
@@ -65,7 +65,7 @@
 58. Explain the difference between `AtomicInteger` and using `synchronized` for increment operations.
 59. What is the difference between `Object`'s `wait()` method and `Thread.sleep()`?
 
-### **V. Collections Framework**
+### **[[V. Collections Framework]]**
 60. How does `HashMap` handle hash collisions? What is the difference between chaining and open addressing?
 61. Why is `HashMap` not thread-safe? How does `ConcurrentHashMap` resolve this?
 62. What is the difference between `Comparable` and `Comparator`? Can a class implement both?
@@ -83,7 +83,7 @@
 74. Why is `Collections.unmodifiableList()` not truly immutable? How does it behave differently from `List.of()`?
 75. What happens if you add a `null` element to a `TreeSet`?
 
-### **VI. Strings & Immutability**
+### **[[VI. Strings & Immutability]]**
 76. Why is the `String` class immutable in Java? What are the benefits of immutability?
 77. What is the difference between `String`, `StringBuilder`, and `StringBuffer`?
 78. Can two different `String` objects with the same value have different hash codes?
@@ -99,7 +99,7 @@
 88. Can you use a `String` as a key in a `HashMap`? What are the implications?
 89. How does `String` interning differ before and after Java 7?
 
-### **VII. Class Loading & Initialization**
+### **[[VII. Class Loading & Initialization]]**
 90. What are the differences between `static` and instance initialization blocks?
 91. What is the order of execution for `static` blocks, instance blocks, and constructors?
 92. What are the different types of class loaders in Java? How do they work?
