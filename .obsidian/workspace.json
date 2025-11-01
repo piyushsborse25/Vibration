@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "31534a33b43f91b9",
+        "id": "1b5b5d36a7b74a8e",
         "type": "tabs",
         "children": [
           {
-            "id": "fcbfc03892c068e1",
+            "id": "576b7ac9c8000d6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 356.5
   },
   "right": {
     "id": "a2aa2e7bd80a04fa",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Payshare/Narrative.md",
+                "file": "Java/Questions/Tricky Java Questions - Answers/I. Object-Oriented Programming (OOP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Narrative"
+              "title": "Backlinks for I. Object-Oriented Programming (OOP)"
             }
           },
           {
@@ -168,12 +168,16 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "fcbfc03892c068e1",
+  "active": "576b7ac9c8000d6a",
   "lastOpenFiles": [
     "Java/Questions/Tricky Java Questions.md",
+    "2025-11-01.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Track.md",
+    "Java/Questions/Java Questions.md",
     "Java/Questions/Tricky Java Questions - Answers/I. Object-Oriented Programming (OOP).md",
     "Java/Questions/Tricky Java Questions - Answers",
-    "Java/Questions/Java Questions.md",
     "Java/Questions/Java Questions - Answers/IV. Keywords & Operators.md",
     "I. Java.md",
     "Java/Questions/Java Questions - Answers/XIII. Regular Expressions.md",
@@ -194,18 +198,14 @@
     "Java/Questions/Java Questions - Answers/III. OOP Concepts.md",
     "Java/Questions/Java Questions - Answers",
     "System Design/System Design.md",
-    "Track.md",
     "Data.md",
     "Microservices/Microservices Interview Questions.md",
-    "Java/Comprehensive Interview Preparation Track.md",
-    "Java/Multithreading/Practical/4. Inter-thread Communication/Code using wait() and notify() to implement producer-consumer problem.md",
     "Microservices/Chapters",
     "Microservices/New folder",
     "Java/Multithreading/Practical/6. Advanced",
     "Java/Multithreading/Practical/5. Concurrency Utilities",
     "Java/Multithreading/Practical/4. Inter-thread Communication",
     "Java/Multithreading/Corners",
-    "Untitled.canvas",
     "Java/Multithreading/Practical/3. Synchronization",
     "System Design/Untitled.canvas"
   ]

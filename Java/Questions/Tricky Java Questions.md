@@ -1,4 +1,4 @@
-### **I. Object-Oriented Programming (OOP)**
+### **[[I. Object-Oriented Programming (OOP)]]**
 1. Can you override a private or static method in Java? Why or why not?
 2. What is the "diamond problem" in inheritance, and how does Java resolve it with interfaces?
 3. Explain the difference between "IS-A" and "HAS-A" relationships in Java with examples.

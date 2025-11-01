@@ -29,7 +29,7 @@
 
 ---
 
-## ☕ **2. Core Java**
+## ☕ **2. Core [[Java Questions]]**
 
 ### **Exception Handling**
 
