@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "692eb229c1d461fc",
+        "id": "31534a33b43f91b9",
         "type": "tabs",
         "children": [
           {
-            "id": "1ffc952d08b2fb8d",
+            "id": "fcbfc03892c068e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Questions/Java Questions.md",
-                "mode": "source",
+                "file": "Java/Questions/Tricky Java Questions.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Java Questions"
+              "title": "Tricky Java Questions"
             }
           }
         ]
@@ -168,16 +168,28 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1ffc952d08b2fb8d",
+  "active": "fcbfc03892c068e1",
   "lastOpenFiles": [
-    "Java/Questions/Java Questions - Answers/V. Strings & Arrays.md",
+    "Java/Questions/Java Questions - Answers/XIII. Regular Expressions.md",
     "Java/Questions/Java Questions.md",
     "Java/Questions/Tricky Java Questions.md",
-    "Java/Questions/Java Questions - Answers/I. Java – Fundamentals & Basics.md",
+    "Java/Questions/Java Questions - Answers/XII. JDBC & Database.md",
+    "Java/Questions/Java Questions - Answers/XI. I-O Operations.md",
+    "Java/Questions/Java Questions - Answers/X. Advanced Java Concepts.md",
+    "XI. I/O Operations.md",
+    "XI. I",
+    "I. Java.md",
     "Java/Questions/Java Questions - Answers/IV. Keywords & Operators.md",
-    "Java/Questions/Java Questions - Answers/III. OOP Concepts.md",
+    "Java/Questions/Java Questions - Answers/VIII. Multithreading & Concurrency.md",
+    "Java/Questions/Java Questions - Answers/IX. Memory Management & Garbage Collection.md",
     "Java/Questions/Java Questions - Answers/II. Data Types & Variables.md",
+    "Java/Questions/Java Questions - Answers/VII. Exception Handling.md",
+    "Java/Questions/Java Questions - Answers/VI. Collections Framework.md",
+    "Java/Corners/AutoBoxing.md",
     "Java/Corners/Byte Magic.md",
+    "Java/Questions/Java Questions - Answers/V. Strings & Arrays.md",
+    "Java/Questions/Java Questions - Answers/I. Java – Fundamentals & Basics.md",
+    "Java/Questions/Java Questions - Answers/III. OOP Concepts.md",
     "Java/Questions/Java Questions - Answers",
     "System Design/System Design.md",
     "Track.md",
@@ -186,17 +198,6 @@
     "Java/Comprehensive Interview Preparation Track.md",
     "Java/Multithreading/Practical/4. Inter-thread Communication/Code using wait() and notify() to implement producer-consumer problem.md",
     "Java/Multithreading/Practical/Practical Multi-Threading.md",
-    "Microservices/Chapters/I. Microservices Fundamentals.md",
-    "Microservices/XI. Miscellaneous & Functional.md",
-    "Microservices/Chapters/XI. Miscellaneous & Functional.md",
-    "Microservices/Chapters/X. Scenario-Based & Real-World Questions.md",
-    "Microservices/Chapters/VIII. Messaging, Queues & Event Handling.md",
-    "Microservices/Chapters/VII. Deployment, Scaling & Cloud.md",
-    "Microservices/Chapters/VI. Monitoring, Logging & Observability.md",
-    "Microservices/Chapters/V. Fault Tolerance & Resilience.md",
-    "Microservices/Chapters/IX. Testing & Reliability.md",
-    "Microservices/Chapters/IV. Data Management & Consistency.md",
-    "Microservices/Chapters/III. Design & Architecture.md",
     "Microservices/Chapters",
     "Microservices/New folder",
     "Java/Multithreading/Practical/6. Advanced",
@@ -206,7 +207,6 @@
     "Untitled.canvas",
     "Java/Multithreading/Practical/3. Synchronization",
     "Java/Multithreading/Practical/2. Thread Lifecycle",
-    "Java/Multithreading/Practical/1. Thread Creation",
     "System Design/Untitled.canvas"
   ]
 }
