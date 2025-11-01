@@ -1,4 +1,4 @@
-### **[[I. Java]]**
+### **[[I. Java – Fundamentals & Basics]]**
 1. What are memory storages available with JVM?
 2. What is a ClassLoader?
 3. Is Java Platform Independent? If yes, how?
